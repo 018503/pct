@@ -2,7 +2,7 @@
 
 Browse and compare VGC championship teams from Reg MA and Reg MB.
 
-**Live site:** https://018503.github.io/pct/
+**Live site:** https://018503.github.io/pct/champions-teams.html
 
 ## Features
 
@@ -14,6 +14,6 @@ Browse and compare VGC championship teams from Reg MA and Reg MB.
 
 ## Structure
 
-- `index.html` — the self-contained team browser (CSS + JS + data inline)
+- `champions-teams.html` — the self-contained team browser (CSS + JS + data inline)
 - `teams.duckdb` — team data in DuckDB format
 - `wiki/` — guides and team analyses in markdown
