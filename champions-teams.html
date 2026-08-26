@@ -160,12 +160,28 @@ header p{font-size:.875rem;color:var(--dim);margin-top:4px;letter-spacing:.04em;
   .histogram-sprite{width:36px;height:36px}
   .histogram-profile{grid-template-columns:1fr;gap:12px}
 }
+.theme-toggle{position:absolute;right:0;top:50%;transform:translateY(-50%);display:flex;align-items:center;gap:8px;cursor:pointer;user-select:none}
+.theme-toggle input{display:none}
+.toggle-label{font-size:.72rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--dim);transition:color .3s}
+.toggle-label.active{color:var(--text)}
+.toggle-track{width:52px;height:28px;border-radius:14px;background:var(--bar-bg);position:relative;transition:background .3s;box-shadow:inset 0 1px 3px rgba(0,0,0,.15)}
+.toggle-knob{position:absolute;top:3px;left:3px;width:22px;height:22px;border-radius:50%;background:#fff;transition:transform .3s cubic-bezier(.4,.0,.2,1);box-shadow:0 1px 4px rgba(0,0,0,.2)}
+.toggle-knob::before,.toggle-knob::after{content:'';position:absolute;border-radius:50%;background:rgba(0,0,0,.08);transition:opacity .3s}
+.toggle-knob::before{width:5px;height:5px;top:5px;right:4px}
+.toggle-knob::after{width:3px;height:3px;bottom:5px;right:7px}
+.theme-toggle input:checked~.toggle-track{background:var(--accent)}
+.theme-toggle input:checked~.toggle-track .toggle-knob{transform:translateX(24px)}
+@media(max-width:500px){
+  .theme-toggle{position:static;transform:none;margin:10px auto 0;justify-content:center}
+  header[style]{text-align:center}
+}
 </style>
 
 <div class="wrap">
-  <header>
+  <header style="position:relative">
     <h1>Pokemon <span>Champions</span></h1>
     <p>Reg MA &middot; Reg MB &middot; 170 Teams</p>
+    <label class="theme-toggle" aria-label="Toggle theme"><span class="toggle-label" id="label-light">Light</span><input type="checkbox" id="theme-switch" onchange="toggleTheme()"><span class="toggle-track"><span class="toggle-knob"></span></span><span class="toggle-label" id="label-dark">Dark</span></label>
   </header>
   <div class="search-area">
     <div class="search-box">
@@ -2063,4 +2079,27 @@ document.getElementById('search').addEventListener('input',e=>{
 });
 
 renderTeams();
+
+function getEffectiveTheme(){
+  const t=document.documentElement.getAttribute('data-theme');
+  if(t) return t;
+  return matchMedia('(prefers-color-scheme:light)').matches?'light':'dark';
+}
+function syncSwitch(){
+  const isDark=getEffectiveTheme()==='dark';
+  document.getElementById('theme-switch').checked=isDark;
+  document.getElementById('label-light').classList.toggle('active',!isDark);
+  document.getElementById('label-dark').classList.toggle('active',isDark);
+}
+function toggleTheme(){
+  const next=document.getElementById('theme-switch').checked?'dark':'light';
+  document.documentElement.setAttribute('data-theme',next);
+  localStorage.setItem('theme',next);
+  syncSwitch();
+}
+(function(){
+  const saved=localStorage.getItem('theme');
+  if(saved){document.documentElement.setAttribute('data-theme',saved);}
+  syncSwitch();
+})();
 </script>
