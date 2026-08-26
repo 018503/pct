@@ -51,7 +51,10 @@ header p{font-size:.875rem;color:var(--dim);margin-top:4px;letter-spacing:.04em;
 .team-card:hover{border-color:color-mix(in srgb,var(--border) 50%,var(--accent))}
 .team-card.dimmed{opacity:.35;pointer-events:none}
 .team-header{display:flex;align-items:center;gap:12px;padding:14px 16px;cursor:pointer;user-select:none}
-.team-num{font-size:.7rem;font-weight:700;color:var(--accent);min-width:20px;text-align:center;font-family:var(--font-mono)}
+.tourney-badge{font-size:.68rem;padding:1px 7px;border-radius:8px;background:var(--accent-soft);color:var(--accent);font-weight:600;letter-spacing:.02em}
+.top-filters{display:flex;gap:6px;padding:0 0 12px;flex-wrap:wrap;align-items:center}
+.top-filters .chip{font-size:.72rem}
+.filter-label{font-size:.68rem;font-weight:600;color:var(--dim);text-transform:uppercase;letter-spacing:.04em;margin-right:2px}
 .team-info{flex:1;min-width:0}
 .team-name{font-size:.95rem;font-weight:600;letter-spacing:-.01em}
 .team-meta{font-size:.72rem;color:var(--dim);display:flex;gap:12px;flex-wrap:wrap;margin-top:2px}
@@ -180,9 +183,10 @@ header p{font-size:.875rem;color:var(--dim);margin-top:4px;letter-spacing:.04em;
 <div class="wrap">
   <header style="position:relative">
     <h1>Pokemon <span>Champions</span></h1>
-    <p>Reg MA &middot; Reg MB &middot; 170 Teams</p>
+    <p>MA &middot; MB &middot; 170 Teams</p>
     <label class="theme-toggle" aria-label="Toggle theme"><span class="toggle-label" id="label-light">Light</span><input type="checkbox" id="theme-switch" onchange="toggleTheme()"><span class="toggle-track"><span class="toggle-knob"></span></span><span class="toggle-label" id="label-dark">Dark</span></label>
   </header>
+  <div class="top-filters" id="top-filters"></div>
   <div class="search-area">
     <div class="search-box">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
@@ -1851,6 +1855,59 @@ T.forEach((team, ti) => {
 });
 
 let activeFilter = null;
+let regFilter = 'all';
+let tourneyFilter = 'all';
+
+function getTeamReg(team){return (team.reg||'MB').replace(/ S\d$/,'');}
+function isTourney(team){return !!team.rk;}
+
+function isTeamVisible(t){
+  const r=getTeamReg(t);
+  if(regFilter!=='all'&&r!==regFilter)return false;
+  if(tourneyFilter==='tourney'&&!isTourney(t))return false;
+  if(tourneyFilter==='community'&&isTourney(t))return false;
+  return true;
+}
+
+function renderTopFilters(){
+  const regCounts={all:0,MA:0,MB:0};
+  const tnCounts={all:0,tourney:0,community:0};
+  T.forEach(t=>{
+    const r=getTeamReg(t);
+    const tn=isTourney(t);
+    if(tourneyFilter==='all'||(tourneyFilter==='tourney'&&tn)||(tourneyFilter==='community'&&!tn)){
+      regCounts[r]=(regCounts[r]||0)+1;regCounts.all++;
+    }
+    if(regFilter==='all'||r===regFilter){
+      if(tn)tnCounts.tourney++;else tnCounts.community++;tnCounts.all++;
+    }
+  });
+  const el=document.getElementById('top-filters');
+  const chips=[
+    {k:'_label',l:'Regulation'},
+    {k:'all',g:'reg',l:'All',c:regCounts.all},
+    {k:'MA',g:'reg',l:'MA',c:regCounts.MA},
+    {k:'MB',g:'reg',l:'MB',c:regCounts.MB},
+    {k:'_sep'},
+    {k:'_label',l:'Type'},
+    {k:'all',g:'tn',l:'All',c:tnCounts.all},
+    {k:'tourney',g:'tn',l:'Tournament',c:tnCounts.tourney},
+    {k:'community',g:'tn',l:'Ladder',c:tnCounts.community},
+  ];
+  el.innerHTML=chips.map(c=>{
+    if(c.k==='_sep')return '<span style="width:1px;height:20px;background:var(--border);margin:0 4px"></span>';
+    if(c.k==='_label')return `<span class="filter-label">${c.l}</span>`;
+    const active=(c.g==='reg'&&regFilter===c.k)||(c.g==='tn'&&tourneyFilter===c.k);
+    return `<span class="chip${active?' active':''}" data-group="${c.g}" data-key="${c.k}">${c.l} <span class="count">(${c.c})</span></span>`;
+  }).join('');
+  el.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{
+    if(c.dataset.group==='reg')regFilter=c.dataset.key;
+    else tourneyFilter=c.dataset.key;
+    renderTopFilters();
+    renderTeams();
+  });
+}
+renderTopFilters();
 
 function renderChips(query) {
   const el = document.getElementById('chips');
@@ -1876,6 +1933,8 @@ function clearFilter() {
   activeFilter = null;
   document.getElementById('search').value = '';
   renderChips('');
+  regFilter='all';tourneyFilter='all';
+  renderTopFilters();
   renderTeams();
 }
 
@@ -1894,7 +1953,8 @@ function renderHistogram(){
   if(!activeFilter){el.innerHTML='';return;}
   const info=pokemonIndex[activeFilter];
   if(!info||info.teams.length<1){el.innerHTML='';return;}
-  const monData=info.teams.map(ti=>{
+  const visTeams=info.teams.filter(ti=>isTeamVisible(T[ti]));
+  const monData=visTeams.map(ti=>{
     const mon=T[ti].p.find(m=>(m[6]||m[0]).toLowerCase()===activeFilter||m[0].toLowerCase()===activeFilter);
     if(!mon)return null;
     return {stats:[mon[4][2],mon[4][5],mon[4][8],mon[4][11],mon[4][14],mon[4][17]],nature:mon[3],item:mon[1],moves:mon[5]};
@@ -1947,25 +2007,39 @@ function renderTeams() {
   const el = document.getElementById('teams');
   const status = document.getElementById('status');
   const filtered = activeFilter ? pokemonIndex[activeFilter]?.teams || [] : null;
+  const visible = T.map(t=>isTeamVisible(t));
+  const visCount=visible.filter(Boolean).length;
   if (filtered) {
-    status.textContent = `Showing ${filtered.length} of ${T.length} teams containing ${pokemonIndex[activeFilter].name}`;
+    const fVis=filtered.filter(i=>visible[i]).length;
+    status.textContent = `Showing ${fVis} of ${visCount} teams containing ${pokemonIndex[activeFilter].name}`;
   } else {
-    status.textContent = `${T.length} teams`;
+    status.textContent = `${visCount} teams`;
   }
 
   renderHistogram();
   renderCompare();
 
   el.innerHTML = T.map((team, ti) => {
+    if(!visible[ti])return '';
     const dimmed = filtered && !filtered.includes(ti);
     const highlightMons = activeFilter ? pokemonIndex[activeFilter]?.teams.includes(ti) : false;
+    const reg = (team.reg||'MB').replace(/ S\d$/,'');
+    let tn = '';
+    if (team.rk) {
+      if (team.rk.includes('Japan')) tn = 'Japan Nationals';
+      else if (team.vid==='9m1QefuvaE8'||team.vid==='2Ngj5VVRn2c') tn = '6K Tournament';
+      else if (team.vid==='lzF98fRb2_g') tn = 'Indianapolis Regionals';
+      else if (team.vid==='nl7J2IYG2Ic') tn = 'S2 Ladder';
+      else if (/Top 100|547th/.test(team.rk)) tn = 'Ranked Ladder';
+    }
+    const rkClean = team.rk ? team.rk.replace(/ \(.*\)/,'') : '';
     return `<div class="team-card${dimmed?' dimmed':''}" data-idx="${ti}">
       <div class="team-header" onclick="toggleTeam(${ti})">
-        <span class="team-num">${team.rk||'#'+(ti+1)}</span>
         <div class="team-info">
           <div class="team-name">${team.n}</div>
           <div class="team-meta">
-            ${team.reg?`<span class="reg-badge">${team.reg}</span>`:''}
+            <span class="reg-badge">${reg}</span>
+            ${tn?`<span class="tourney-badge">${rkClean} · ${tn}</span>`:''}
             ${team.c?`<a href="${team.cu}" target="_blank">@${team.c}</a>`:''}
             ${team.rc?`<button class="rental" onclick="event.stopPropagation();copyRental(this,'${team.rc}')" title="Copy rental code">${team.rc}</button>`:''}
           </div>
@@ -2015,8 +2089,10 @@ function renderCompare() {
   if (!activeFilter) { el.innerHTML = ''; return; }
   const info = pokemonIndex[activeFilter];
   if (!info || info.teams.length < 2) { el.innerHTML = ''; return; }
+  const visTeams = info.teams.filter(ti => isTeamVisible(T[ti]));
+  if (visTeams.length < 2) { el.innerHTML = ''; return; }
 
-  const builds = info.teams.map(ti => {
+  const builds = visTeams.map(ti => {
     const team = T[ti];
     const mon = team.p.find(m => (m[6]||m[0]).toLowerCase() === activeFilter || m[0].toLowerCase() === activeFilter);
     if (!mon) return null;
