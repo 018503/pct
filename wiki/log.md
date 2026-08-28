@@ -1,5 +1,11 @@
 # Log
 
+## [2026-08-28] ingest | 1 CybertronVGC team (8Q9ZIaIlvrc)
+
+Ingested 1 new team from CybertronVGC dedicated video (Aug 26 2026):
+
+- **Bwizzard 2.0 — Glaceon / Mega Froslass / Mega Glimmora** (8Q9ZIaIlvrc) — Betchman22's Top 32 team from a ~1500 player tournament (Victory Road TSF26). Dual mega pairing of Froslass (Snow Warning + Taunt) and Glimmora (Adaptability). Bright Powder + Snow Cloak Glaceon as primary special attacker with Blizzard spam and Freeze-Dry coverage. Life Orb offensive Talonflame. Speed-invested Chople Kingambit with Low Kick for mirror matchups.
+
 ## [2026-08-25] ingest | 1 CybertronVGC team (QS7GtlEbcDg)
 
 Ingested 1 new team from CybertronVGC dedicated video (Aug 25 2026):

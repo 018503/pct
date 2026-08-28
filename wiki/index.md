@@ -224,6 +224,7 @@ Source: Individual CybertronVGC Road to Ranked / gameplay videos (June-August 20
 | 30 | A WORLD CHAMP built a SUPER FUN Mega Gallade team | [barudoru](https://x.com/barudoru) | KKJP04F5J4 | [link](teams/reg-mb-s4-gallade-maushold.md) |
 | 31 | Mega Gengar's best new partner is... Swampert? | [MichaelderBeste](https://x.com/MichaelderBeste) | ESJDD2DVLQ | [link](teams/reg-mb-gengar-swampert.md) |
 | 32 | Let me show you MEGA BANETTE's true potential | [roku_pokemon](https://x.com/roku_pokemon) | 43T0PE8TL8 | [link](teams/reg-mb-s4-banette-sneezler.md) |
+| 33 | I tried the BEST Glaceon team in Pokemon Champions | [Betchman22](https://x.com/Betchman22) | H59R1YGEDJ | [link](teams/reg-mb-s4-glaceon-froslass-glimmora.md) |
 
 ## Regulation MB — CybertronVGC Roundup Teams
 
