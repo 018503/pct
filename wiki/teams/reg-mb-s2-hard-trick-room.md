@@ -7,6 +7,7 @@
 | Creator | [Johnnychiou36](https://x.com/Johnnychiou36) |
 | Pokepaste | https://pokepast.es/0335ec953f7d6431 |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (26:20) |
+| Video Date | 2026-08-08 |
 
 ## Strategy
 

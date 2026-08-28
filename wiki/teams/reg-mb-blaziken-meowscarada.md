@@ -7,6 +7,7 @@
 | Creator | [icho_poke](https://x.com/icho_poke) |
 | Pokepaste | [https://pokepast.es/f84b9918ea9a6ea8](https://pokepast.es/f84b9918ea9a6ea8) |
 | Source | [CybertronVGC - This is the most UNIQUE high elo Mega Blaziken tea](https://youtube.com/watch?v=jrkMRPYxykE) |
+| Video Date | 2026-07-24 |
 
 ## Strategy
 

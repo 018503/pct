@@ -7,6 +7,7 @@
 | Creator | [tbhla7130](https://x.com/tbhla7130) |
 | Pokepaste | [https://pokepast.es/9794ee6b24b73aa0](https://pokepast.es/9794ee6b24b73aa0) |
 | Source | [CybertronVGC - Mega Skarmory is the ANTI-META pick you're sleepin](https://youtube.com/watch?v=RrVvIFHsa9A) |
+| Video Date | 2026-05-13 |
 
 ## Strategy
 

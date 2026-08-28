@@ -7,6 +7,7 @@
 | Creator | [MichaelderBeste](https://x.com/MichaelderBeste) |
 | Pokepaste | [https://pokepast.es/2cc66496fe7bc132](https://pokepast.es/2cc66496fe7bc132) |
 | Source | [CybertronVGC - Mega Gengar's best new partner is... Swampert?](https://youtube.com/watch?v=pZAP6oLwdE0) |
+| Video Date | 2026-08-22 |
 
 ## Strategy
 

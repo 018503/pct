@@ -7,6 +7,7 @@
 | Creator | [sasisu_memo](https://x.com/sasisu_memo) |
 | Pokepaste | [https://pokepast.es/9839322d1ed7ceab](https://pokepast.es/9839322d1ed7ceab) |
 | Source | [CybertronVGC - This is one of the BEST TEAMS in Pokemon Champions](https://youtube.com/watch?v=fGGkAMnyZp4) |
+| Video Date | 2026-07-07 |
 
 ## Strategy
 

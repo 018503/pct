@@ -7,6 +7,7 @@
 | Creator | [supahsanti](https://x.com/supahsanti) |
 | Pokepaste | [https://pokepast.es/8eee765dbbfdda3d](https://pokepast.es/8eee765dbbfdda3d) |
 | Source | [CybertronVGC - I tried one of the most evil strategies in Pokemon](https://youtube.com/watch?v=Z_AdWoRj3iU) |
+| Video Date | 2026-05-06 |
 
 ## Strategy
 

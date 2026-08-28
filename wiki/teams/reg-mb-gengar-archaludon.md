@@ -7,6 +7,7 @@
 | Creator | [BlueYossi](https://x.com/BlueYossi) |
 | Pokepaste | [https://pokepast.es/08993fcd393e4fc4](https://pokepast.es/08993fcd393e4fc4) |
 | Source | [CybertronVGC - I tried the BEST Mega Gengar Perish Rain team](https://youtube.com/watch?v=uGT6Mfz1lOw) |
+| Video Date | 2026-07-17 |
 
 ## Strategy
 

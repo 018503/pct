@@ -6,6 +6,7 @@
 | Creator | [FedeCampoVGC](https://x.com/FedeCampoVGC) |
 | Pokepaste | [https://pokepast.es/0cb64e40a7c38cba](https://pokepast.es/0cb64e40a7c38cba) |
 | Source | [CybertronVGC — Top NEW MEGA teams to try RIGHT NOW in Pokemon Champions](https://www.youtube.com/watch?v=0YWCnAGJNUY) (5:40) |
+| Video Date | 2026-06-19 |
 
 ## Strategy
 

@@ -7,6 +7,7 @@
 | Creator | [1803gi](https://x.com/1803gi) |
 | Pokepaste | [https://pokepast.es/17126a54ea54f7c3](https://pokepast.es/17126a54ea54f7c3) |
 | Source | [CybertronVGC - This Champion tier ANTI-META team is CRAZY](https://youtube.com/watch?v=W6pQNrl4DDM) |
+| Video Date | 2026-07-10 |
 
 ## Strategy
 

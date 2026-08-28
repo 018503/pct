@@ -7,6 +7,7 @@
 | Creator | [lovejapanfrombr](https://x.com/lovejapanfrombr) |
 | Pokepaste | https://pokepast.es/c12f688c33b0241f |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (39:33) |
+| Video Date | 2026-08-08 |
 
 ## Strategy
 

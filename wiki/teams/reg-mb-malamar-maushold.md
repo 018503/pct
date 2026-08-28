@@ -5,6 +5,7 @@
 | Regulation | MB |
 | Pokepaste | [https://pokepast.es/9cf3d0f969bcf74d](https://pokepast.es/9cf3d0f969bcf74d) |
 | Source | [CybertronVGC - This is my FAVORITE team in Pokemon Champions righ](https://youtube.com/watch?v=5aNUHd_vPFQ) |
+| Video Date | 2026-07-15 |
 
 ## Strategy
 

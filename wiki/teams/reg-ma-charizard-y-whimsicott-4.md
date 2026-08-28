@@ -7,6 +7,7 @@
 | Creator | [bale_tottenham](https://x.com/bale_tottenham) |
 | Pokepaste | [https://pokepast.es/5ba190d81434a07f](https://pokepast.es/5ba190d81434a07f) |
 | Source | [CybertronVGC - This is the BEST TEAM in Pokemon Champions right n](https://youtube.com/watch?v=5bws1BfLA-4) |
+| Video Date | 2026-05-19 |
 
 ## Strategy
 

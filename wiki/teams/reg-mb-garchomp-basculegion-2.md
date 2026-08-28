@@ -6,6 +6,7 @@
 | Creator | [yanagiT_poke](https://x.com/yanagiT_poke) |
 | Pokepaste | [https://pokepast.es/ec25f5fa76697bb2](https://pokepast.es/ec25f5fa76697bb2) |
 | Source | [CybertronVGC - This ANTI-META Mega Garchomp reached RANK #1 in th](https://youtube.com/watch?v=NSAgOt14PKY) |
+| Video Date | 2026-07-30 |
 
 ## Strategy
 

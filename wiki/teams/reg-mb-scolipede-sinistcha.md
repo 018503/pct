@@ -7,6 +7,7 @@
 | Creator | [EvenusHinata](https://x.com/EvenusHinata) |
 | Pokepaste | [https://pokepast.es/e03dce07ac2ae74a](https://pokepast.es/e03dce07ac2ae74a) |
 | Source | [CybertronVGC - I went on a huge win streak with Mega Scolipede & ](https://youtube.com/watch?v=_YcWIs1R9q0) |
+| Video Date | 2026-07-09 |
 
 ## Strategy
 

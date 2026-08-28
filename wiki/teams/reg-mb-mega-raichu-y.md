@@ -6,6 +6,7 @@
 | Creator | [cona_5757](https://x.com/cona_5757) |
 | Pokepaste | [https://pokepast.es/386e779d8eaebcb5](https://pokepast.es/386e779d8eaebcb5) |
 | Source | [CybertronVGC — Top NEW MEGA teams to try RIGHT NOW in Pokemon Champions](https://www.youtube.com/watch?v=0YWCnAGJNUY) (0:42) |
+| Video Date | 2026-06-19 |
 
 ## Strategy
 

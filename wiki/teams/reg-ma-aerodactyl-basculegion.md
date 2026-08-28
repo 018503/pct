@@ -7,6 +7,7 @@
 | Creator | [FedeCampoVGC](https://x.com/FedeCampoVGC) |
 | Pokepaste | [https://pokepast.es/75575fb800e3f5cb](https://pokepast.es/75575fb800e3f5cb) |
 | Source | [CybertronVGC - This team with ARIADOS WON a 400K+ person tourname](https://youtube.com/watch?v=EhI6kVk7xK4) |
+| Video Date | 2026-05-08 |
 
 ## Strategy
 

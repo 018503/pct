@@ -7,6 +7,7 @@
 | Creator | [UrsakingVGC](https://x.com/UrsakingVGC) |
 | Pokepaste | [https://pokepast.es/a9e3c871f9ea7597](https://pokepast.es/a9e3c871f9ea7597) |
 | Source | [CybertronVGC - MEGA Delphox won a Pokemon Champions tournament](https://youtube.com/watch?v=37N-BYcNAsM) |
+| Video Date | 2026-04-12 |
 
 ## Strategy
 

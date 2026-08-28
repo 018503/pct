@@ -6,6 +6,7 @@
 | Creator | [koon_ky](https://x.com/koon_ky) |
 | Pokepaste | [https://pokepast.es/b9427401e4686af4](https://pokepast.es/b9427401e4686af4) |
 | Source | [CybertronVGC - This Mega Glimmora core is really UNDERRATED right](https://youtube.com/watch?v=fP1ssoP3e10) |
+| Video Date | 2026-08-03 |
 
 ## Strategy
 

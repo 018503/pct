@@ -6,6 +6,7 @@
 | Creator | [KaguyaFalls](https://x.com/KaguyaFalls) |
 | Pokepaste | [https://pokepast.es/b39fd783a1c23779](https://pokepast.es/b39fd783a1c23779) |
 | Source | [CybertronVGC — Top NEW MEGA teams to try RIGHT NOW in Pokemon Champions](https://www.youtube.com/watch?v=0YWCnAGJNUY) (23:11) |
+| Video Date | 2026-06-19 |
 
 ## Strategy
 

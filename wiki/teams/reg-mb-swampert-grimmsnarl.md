@@ -6,6 +6,7 @@
 | Rental Code | R1037TX51R |
 | Pokepaste | [https://pokepast.es/9a8f5d768ac355da](https://pokepast.es/9a8f5d768ac355da) |
 | Source | [CybertronVGC - This is one of the BEST RAIN teams in Pokemon Cham](https://youtube.com/watch?v=8BtFlPO3yLY) |
+| Video Date | 2026-06-24 |
 
 ## Strategy
 

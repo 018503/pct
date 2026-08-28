@@ -9,6 +9,7 @@
 | Recreated by | [BattleRoom](https://www.youtube.com/@BattleRoom) |
 | Pokepaste | https://pokepast.es/51ba9251bbcedcad |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (00:52) |
+| Video Date | 2026-08-08 |
 
 > **Note:** This is a recreation of the original team. The original creator had not publicised the rental or spreads at the time of the video.
 

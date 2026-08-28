@@ -5,6 +5,7 @@
 | Regulation | MB |
 | Pokepaste | [https://pokepast.es/b25e2c5ae62579bc](https://pokepast.es/b25e2c5ae62579bc) |
 | Source | [CybertronVGC - So Mega Staraptor finally won a tournament…](https://youtube.com/watch?v=2krHK78OcXU) |
+| Video Date | 2026-07-29 |
 
 ## Strategy
 

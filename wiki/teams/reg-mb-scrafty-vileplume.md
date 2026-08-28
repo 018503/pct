@@ -7,6 +7,7 @@
 | Creator | [LexiconVGC](https://x.com/LexiconVGC) |
 | Pokepaste | [https://pokepast.es/28ec05af7c296f89](https://pokepast.es/28ec05af7c296f89) |
 | Source | [CybertronVGC - Win games QUICKLY with this Mega Scrafty Trick Roo](https://youtube.com/watch?v=dUzYKEU_8TA) |
+| Video Date | 2026-06-28 |
 
 ## Strategy
 

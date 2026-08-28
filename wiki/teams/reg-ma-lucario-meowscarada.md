@@ -7,6 +7,7 @@
 | Creator | [ElctroLychee](https://x.com/ElctroLychee) |
 | Pokepaste | [https://pokepast.es/15f55441825adade](https://pokepast.es/15f55441825adade) |
 | Source | [CybertronVGC - Mega Lucario is a sick anti-meta pick right now](https://youtube.com/watch?v=Pb24740eWLo) |
+| Video Date | 2026-06-04 |
 
 ## Strategy
 

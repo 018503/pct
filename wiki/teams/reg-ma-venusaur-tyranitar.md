@@ -7,6 +7,7 @@
 | Creator | [XenoVGC](https://x.com/XenoVGC) |
 | Pokepaste | [https://pokepast.es/680bd0b599612421](https://pokepast.es/680bd0b599612421) |
 | Source | [CybertronVGC - MEGA VENUSAUR is the perfect ANTI-META pick right ](https://youtube.com/watch?v=JZcNevQsVNs) |
+| Video Date | 2026-04-20 |
 
 ## Strategy
 

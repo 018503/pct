@@ -7,6 +7,7 @@
 | Creator | [NikyuAlex](https://x.com/NikyuAlex) |
 | Pokepaste | [https://pokepast.es/5fa79154c6fb5677](https://pokepast.es/5fa79154c6fb5677) |
 | Source | [CybertronVGC - This is one of the BEST MEGA BLAZIKEN teams](https://youtube.com/watch?v=0ANi8qgr8do) |
+| Video Date | 2026-07-01 |
 
 ## Strategy
 

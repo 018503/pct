@@ -6,6 +6,7 @@
 | Rental Code | ENY0T861 |
 | Pokepaste | [https://pokepast.es/8b247ee8cb87c99c](https://pokepast.es/8b247ee8cb87c99c) |
 | Source | [CybertronVGC - The Pokemon Company asked me to build a Mega Feral](https://youtube.com/watch?v=ucCBKkrfaBk) |
+| Video Date | 2026-05-14 |
 
 ## Strategy
 

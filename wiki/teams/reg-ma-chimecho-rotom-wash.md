@@ -7,6 +7,7 @@
 | Creator | [Suggy3333](https://x.com/Suggy3333) |
 | Pokepaste | [https://pokepast.es/b9b92b667fd67288](https://pokepast.es/b9b92b667fd67288) |
 | Source | [CybertronVGC - Mega CHIMECHO might be underrated...](https://youtube.com/watch?v=A7qOmIE5mnI) |
+| Video Date | 2026-04-26 |
 
 ## Strategy
 

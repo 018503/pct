@@ -7,6 +7,7 @@
 | Creator | [INFP_poke](https://x.com/INFP_poke) |
 | Pokepaste | https://pokepast.es/c5528eea47c9b30b |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (20:31) |
+| Video Date | 2026-08-08 |
 
 ## Strategy
 

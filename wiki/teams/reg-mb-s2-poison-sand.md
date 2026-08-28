@@ -7,6 +7,7 @@
 | Creator | [1803gi](https://x.com/1803gi) |
 | Pokepaste | https://pokepast.es/96508454c1c30d54 |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (35:50) |
+| Video Date | 2026-08-08 |
 
 ## Strategy
 

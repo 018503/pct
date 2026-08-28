@@ -7,6 +7,7 @@
 | Creator | [ragimali](https://x.com/ragimali) |
 | Pokepaste | [https://pokepast.es/8e98aa5005367f06](https://pokepast.es/8e98aa5005367f06) |
 | Source | [CybertronVGC - This team WON the LARGEST Champions tournament](https://youtube.com/watch?v=J0eVKJyJ_DQ) |
+| Video Date | 2026-05-02 |
 
 ## Strategy
 

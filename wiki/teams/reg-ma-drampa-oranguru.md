@@ -7,6 +7,7 @@
 | Creator | [JohnnyHax](https://x.com/JohnnyHax) |
 | Pokepaste | [https://pokepast.es/ace8705a0b9a5662](https://pokepast.es/ace8705a0b9a5662) |
 | Source | [CybertronVGC - Oranguru turns Mega Drampa into a MONSTER](https://youtube.com/watch?v=E4abM_hxz0A) |
+| Video Date | 2026-05-05 |
 
 ## Strategy
 

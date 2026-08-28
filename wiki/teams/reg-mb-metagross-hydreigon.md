@@ -7,6 +7,7 @@
 | Creator | [UB_SLOW](https://x.com/UB_SLOW) |
 | Pokepaste | [https://pokepast.es/1a8b272fb8685a21](https://pokepast.es/1a8b272fb8685a21) |
 | Source | [CybertronVGC - Pokemon Champions’ #1 player made Wolfe's Toxapex ](https://youtube.com/watch?v=JJhMx9ErPEs) |
+| Video Date | 2026-06-29 |
 
 ## Strategy
 

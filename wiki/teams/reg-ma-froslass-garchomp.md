@@ -7,6 +7,7 @@
 | Creator | [Yunittoyuni](https://x.com/Yunittoyuni) |
 | Pokepaste | [https://pokepast.es/dcf89d9add84b07d](https://pokepast.es/dcf89d9add84b07d) |
 | Source | [CybertronVGC - Mega FROSLASS is one of the BEST new Mega Evolutio](https://youtube.com/watch?v=8kbpvwMnYIE) |
+| Video Date | 2026-04-15 |
 
 ## Strategy
 

@@ -5,6 +5,7 @@
 | Regulation | MA |
 | Pokepaste | [https://pokepast.es/7c4098e58541d21e](https://pokepast.es/7c4098e58541d21e) |
 | Source | [CybertronVGC - Mega Charizard is DOMINATING Pokemon Champions... ](https://youtube.com/watch?v=3RvoWKU94sU) |
+| Video Date | 2026-04-22 |
 
 ## Strategy
 

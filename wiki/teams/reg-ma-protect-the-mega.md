@@ -5,6 +5,7 @@
 | Regulation | MA |
 | Pokepaste | https://pokepast.es/8e6be47bfadc4ffc |
 | Source | [CybertronVGC — These are the BEST teams in Pokemon Champions RIGHT NOW (June 2026)](https://www.youtube.com/watch?v=lzF98fRb2_g) (15:45) |
+| Video Date | 2026-06-09 |
 
 ## Strategy
 

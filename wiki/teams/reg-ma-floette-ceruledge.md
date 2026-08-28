@@ -6,6 +6,7 @@
 | Rental Code | WC5GBTV82N |
 | Pokepaste | [https://pokepast.es/8ae5cbbed39ada71](https://pokepast.es/8ae5cbbed39ada71) |
 | Source | [CybertronVGC - A genius team-builder created this CRAZY team...](https://youtube.com/watch?v=vbMZ1uMzDq8) |
+| Video Date | 2026-06-12 |
 
 ## Strategy
 

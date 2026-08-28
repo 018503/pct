@@ -6,6 +6,7 @@
 | Creator | [Normalssbbbx](https://x.com/Normalssbbbx) |
 | Pokepaste | [https://pokepast.es/19c7384c9488e6a6](https://pokepast.es/19c7384c9488e6a6) |
 | Source | [CybertronVGC - This team makes Mega Dragalge SO HARD to KO](https://youtube.com/watch?v=p7gXBAns7OY) |
+| Video Date | 2026-07-27 |
 
 ## Strategy
 

@@ -7,6 +7,7 @@
 | Creator | [icho_poke](https://x.com/icho_poke) |
 | Pokepaste | https://pokepast.es/771764709defba4b |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (32:44) |
+| Video Date | 2026-08-08 |
 
 ## Strategy
 

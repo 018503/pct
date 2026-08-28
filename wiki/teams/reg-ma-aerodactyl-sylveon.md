@@ -7,6 +7,7 @@
 | Creator | [jit_vgc](https://x.com/jit_vgc) |
 | Pokepaste | [https://pokepast.es/746482209b25aa1a](https://pokepast.es/746482209b25aa1a) |
 | Source | [CybertronVGC - Nobody expected Mega Venusaur & Kommo-o to win Tha](https://youtube.com/watch?v=mJ4w6PD3WTg) |
+| Video Date | 2026-05-23 |
 
 ## Strategy
 

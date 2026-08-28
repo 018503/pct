@@ -5,6 +5,7 @@
 | Regulation | MB |
 | Pokepaste | [https://pokepast.es/c12f688c33b0241f](https://pokepast.es/c12f688c33b0241f) |
 | Source | [CybertronVGC - 15+ of the BEST TEAMS in Pokemon Champions RIGHT N](https://youtube.com/watch?v=6F0sEC45CWc) |
+| Video Date | 2026-07-08 |
 
 ## Strategy
 

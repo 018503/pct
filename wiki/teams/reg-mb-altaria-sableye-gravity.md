@@ -7,6 +7,7 @@
 | Creator | [DragonairJ](https://x.com/DragonairJ) |
 | Pokepaste | https://pokepast.es/42bb4e616f8ca8e8 |
 | Source | [CybertronVGC — This Mega Altaria strategy is EVIL](https://www.youtube.com/watch?v=9_OhmThH8AE) (2026-08-12) |
+| Video Date | 2026-08-12 |
 
 ## Strategy
 

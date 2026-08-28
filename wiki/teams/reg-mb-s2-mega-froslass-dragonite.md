@@ -7,6 +7,7 @@
 | Creator | [idntfwelon](https://x.com/idntfwelon) & [SudozZ](https://x.com/SudozZ) |
 | Pokepaste | https://pokepast.es/4a14e036f0e514fd |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (10:33) |
+| Video Date | 2026-08-08 |
 
 ## Strategy
 

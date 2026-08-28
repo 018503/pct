@@ -7,6 +7,7 @@
 | Creator | [idntfwelon](https://x.com/idntfwelon) (Washy) |
 | Pokepaste | https://pokepast.es/ff639f78acef65c9 |
 | Source | [CybertronVGC — This team has been quietly dominating Pokemon Champions](https://www.youtube.com/watch?v=Bx1r7m-4Xho) (2026-08-10) |
+| Video Date | 2026-08-10 |
 
 ## Strategy
 

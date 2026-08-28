@@ -6,6 +6,7 @@
 | Creator | [Emirnent](https://x.com/Emirnent) |
 | Pokepaste | [https://pokepast.es/b6a8aa40e76eb068](https://pokepast.es/b6a8aa40e76eb068) |
 | Source | [CybertronVGC — Top NEW MEGA teams to try RIGHT NOW in Pokemon Champions](https://www.youtube.com/watch?v=0YWCnAGJNUY) (19:38) |
+| Video Date | 2026-06-19 |
 
 ## Strategy
 

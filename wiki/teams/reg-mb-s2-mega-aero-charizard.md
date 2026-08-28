@@ -8,6 +8,7 @@
 | Creator | [Huyubare_Poke](https://x.com/Huyubare_Poke) |
 | Pokepaste | https://pokepast.es/0322675ee8ed7927 |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (08:53) |
+| Video Date | 2026-08-08 |
 
 ## Strategy
 

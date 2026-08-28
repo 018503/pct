@@ -5,6 +5,7 @@
 | Regulation | MA Season 1 |
 | Pokepaste | https://pokepast.es/0d479f6a7b9e6a0b |
 | Source | [CybertronVGC — 10 TOP teams to try in Pokemon Champions RIGHT NOW (May 2026)](https://www.youtube.com/watch?v=J-FN6G59dI0) (19:20) |
+| Video Date | 2026-05-16 |
 
 ## Strategy
 

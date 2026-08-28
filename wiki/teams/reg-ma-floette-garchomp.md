@@ -7,6 +7,7 @@
 | Creator | [SPY_Anya11](https://x.com/SPY_Anya11) |
 | Pokepaste | [https://pokepast.es/50cb2cd2900776f2](https://pokepast.es/50cb2cd2900776f2) |
 | Source | [CybertronVGC - I used the BEST TEAM in the world to climb to CHAM](https://youtube.com/watch?v=7KBaPQVsuho) |
+| Video Date | 2026-04-18 |
 
 ## Strategy
 

@@ -6,6 +6,7 @@
 | Placement | Top 32 |
 | Pokepaste | https://pokepast.es/b0269cbcfc353679 |
 | Source | [CybertronVGC — 15 TOP TEAMS to try in Pokemon Champions right now](https://www.youtube.com/watch?v=9m1QefuvaE8) (20:48) |
+| Video Date | 2026-05-01 |
 
 ## Strategy
 

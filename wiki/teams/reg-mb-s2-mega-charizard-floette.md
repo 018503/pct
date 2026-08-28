@@ -7,6 +7,7 @@
 | Creator | [mariruripokemo2](https://x.com/mariruripokemo2) |
 | Pokepaste | https://pokepast.es/2efaa6cbfcb4288b |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (17:33) |
+| Video Date | 2026-08-08 |
 
 ## Strategy
 

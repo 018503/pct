@@ -7,6 +7,7 @@
 | Creator | [pokefey](https://x.com/pokefey) |
 | Pokepaste | [https://pokepast.es/59e01f788021be45](https://pokepast.es/59e01f788021be45) |
 | Source | [CybertronVGC - MEGA GOLURK WON a tournament and it's SO UNDERRATE](https://youtube.com/watch?v=L-G2WTtM_b8) |
+| Video Date | 2026-04-17 |
 
 ## Strategy
 

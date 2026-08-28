@@ -7,6 +7,7 @@
 | Creator | [pokemon_tcg](https://x.com/pokemon_tcg) |
 | Pokepaste | [https://pokepast.es/8e6be47bfadc4ffc](https://pokepast.es/8e6be47bfadc4ffc) |
 | Source | [CybertronVGC - A World Champion made this INCREDIBLE setup team](https://youtube.com/watch?v=25LhswjeoD8) |
+| Video Date | 2026-05-31 |
 
 ## Strategy
 

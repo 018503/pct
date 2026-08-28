@@ -7,6 +7,7 @@
 | Creator | [KaguyaFalls](https://x.com/KaguyaFalls) |
 | Pokepaste | [https://pokepast.es/748303673744e613](https://pokepast.es/748303673744e613) |
 | Source | [CybertronVGC - I tried a team with some WEIRD Pokemon...](https://youtube.com/watch?v=gBNolom5S1o) |
+| Video Date | 2026-05-10 |
 
 ## Strategy
 

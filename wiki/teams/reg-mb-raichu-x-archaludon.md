@@ -5,6 +5,7 @@
 | Regulation | MB |
 | Pokepaste | [https://pokepast.es/f0cd083e01872764](https://pokepast.es/f0cd083e01872764) |
 | Source | [CybertronVGC - The Pokemon Company asked me to build a Mega Raich](https://youtube.com/watch?v=wannOUU9MFc) |
+| Video Date | 2026-07-20 |
 
 ## Strategy
 

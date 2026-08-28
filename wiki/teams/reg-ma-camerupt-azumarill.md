@@ -7,6 +7,7 @@
 | Creator | [toracado2025](https://x.com/toracado2025) |
 | Pokepaste | [https://pokepast.es/36024f94afa795e0](https://pokepast.es/36024f94afa795e0) |
 | Source | [CybertronVGC - I lost to this top rank NON-META team & had to try](https://youtube.com/watch?v=K2OKe2-J1ko) |
+| Video Date | 2026-05-16 |
 
 ## Strategy
 

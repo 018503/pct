@@ -5,6 +5,7 @@
 | Regulation | MB |
 | Pokepaste | [https://pokepast.es/86d60437817bbb5c](https://pokepast.es/86d60437817bbb5c) |
 | Source | [CybertronVGC - I used Mega Barbaracle to climb to CHAMPION tier](https://youtube.com/watch?v=yAXAAdHakiM) |
+| Video Date | 2026-06-26 |
 
 ## Strategy
 

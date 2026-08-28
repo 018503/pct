@@ -5,6 +5,7 @@
 | Regulation | MB |
 | Pokepaste | [https://pokepast.es/f4394606bb52266c](https://pokepast.es/f4394606bb52266c) |
 | Source | [CybertronVGC - The Pokemon Champions metagame is evolving rapidly](https://youtube.com/watch?v=fp42NJ4io7o) |
+| Video Date | 2026-07-28 |
 
 ## Strategy
 

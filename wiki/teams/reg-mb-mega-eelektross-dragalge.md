@@ -6,6 +6,7 @@
 | Creator | [SHADEviera](https://x.com/SHADEviera) |
 | Pokepaste | [https://pokepast.es/681351b21541e8e2](https://pokepast.es/681351b21541e8e2) |
 | Source | [CybertronVGC — Top NEW MEGA teams to try RIGHT NOW in Pokemon Champions](https://www.youtube.com/watch?v=0YWCnAGJNUY) (3:33) |
+| Video Date | 2026-06-19 |
 
 ## Strategy
 

@@ -5,6 +5,7 @@
 | Regulation | MA |
 | Pokepaste | [https://pokepast.es/9794ee6b24b73aa0](https://pokepast.es/9794ee6b24b73aa0) |
 | Source | [CybertronVGC - 5 of the MOST UNIQUE teams from Japan's Nationals ](https://youtube.com/watch?v=57-sy0w1S74) |
+| Video Date | 2026-05-12 |
 
 ## Strategy
 

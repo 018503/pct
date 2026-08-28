@@ -6,6 +6,7 @@
 | Rental Code | G5QEE9V4M8 |
 | Pokepaste | [https://pokepast.es/3742e74668e0d8c6](https://pokepast.es/3742e74668e0d8c6) |
 | Source | [CybertronVGC - I tried the BEST Mega Pyroar team and won 12 games](https://youtube.com/watch?v=C370Q58qnFI) |
+| Video Date | 2026-06-23 |
 
 ## Strategy
 

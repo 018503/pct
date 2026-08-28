@@ -7,6 +7,7 @@
 | Creator | [cona_5757](https://x.com/cona_5757) |
 | Pokepaste | [https://pokepast.es/0b18804f545255d9](https://pokepast.es/0b18804f545255d9) |
 | Source | [CybertronVGC - I used MEGA LOPUNNY to climb to CHAMPION tier](https://youtube.com/watch?v=gVUPFxABMSc) |
+| Video Date | 2026-05-21 |
 
 ## Strategy
 

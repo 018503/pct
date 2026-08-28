@@ -10,6 +10,7 @@
 | Team Report | [samidare281 blog](https://samidare281.hatenablog.com/entry/2026/08/06/073210) |
 | Source | [CybertronVGC — This is the BEST Mega Mawile team right now](https://www.youtube.com/watch?v=2f0zyOC1qdo&t=0s) |
 | Also featured | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (22:55) |
+| Video Date | 2026-08-20 |
 
 ## Strategy
 

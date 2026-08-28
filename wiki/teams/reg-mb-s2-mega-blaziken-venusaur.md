@@ -7,6 +7,7 @@
 | Creator | [PizzamemesVGC](https://x.com/PizzamemesVGC) |
 | Pokepaste | https://pokepast.es/0ce4483184e3ae40 |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (29:55) |
+| Video Date | 2026-08-08 |
 
 ## Strategy
 

@@ -7,6 +7,7 @@
 | Creator | [zeen172M](https://x.com/zeen172M) |
 | Pokepaste | [https://pokepast.es/1b415d637eb7fad3](https://pokepast.es/1b415d637eb7fad3) |
 | Source | [CybertronVGC - This is the #1 team in Pokemon Champions](https://youtube.com/watch?v=iLBIDGOLPB8) |
+| Video Date | 2026-07-13 |
 
 ## Strategy
 

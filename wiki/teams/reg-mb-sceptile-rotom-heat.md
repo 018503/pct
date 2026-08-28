@@ -6,6 +6,7 @@
 | Creator | [Emirnent](https://x.com/Emirnent) |
 | Pokepaste | [https://pokepast.es/cb956a2a6794e318](https://pokepast.es/cb956a2a6794e318) |
 | Source | [CybertronVGC - Mega Sceptile has never been this good](https://youtube.com/watch?v=L6D6GINpthY) |
+| Video Date | 2026-06-23 |
 
 ## Strategy
 

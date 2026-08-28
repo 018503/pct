@@ -6,6 +6,7 @@
 | Creator | [kim0227poke](https://x.com/kim0227poke) |
 | Pokepaste | [https://pokepast.es/b47d0eef75c4921c](https://pokepast.es/b47d0eef75c4921c) |
 | Source | [CybertronVGC - This NEW TEAM is DOMINATING Pokemon Champions](https://youtube.com/watch?v=1jSmVreDtBo) |
+| Video Date | 2026-08-04 |
 
 ## Strategy
 

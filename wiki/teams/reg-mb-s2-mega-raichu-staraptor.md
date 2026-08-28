@@ -8,6 +8,7 @@
 | Recreated by | [SHADEviera](https://www.youtube.com/@SHADEviera) (Shom Moonami, 2015 World Champion) |
 | Pokepaste | https://pokepast.es/b47d0eef75c4921c |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (14:08) |
+| Video Date | 2026-08-08 |
 
 > **Note:** Kim's original version was never released publicly. This is Shom Moonami's recreation, believed to be close to the original.
 

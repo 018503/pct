@@ -8,6 +8,7 @@
 | Creator | [magicauravgc](https://x.com/magicauravgc) (Jude Lee) |
 | Pokepaste | https://pokepast.es/54399d7822a65229 |
 | Source | [CybertronVGC — This is the #1 team in Pokemon Champions from last season](https://www.youtube.com/watch?v=pYN-aH6Qm-4) (2026-08-16) |
+| Video Date | 2026-08-16 |
 
 ## Strategy
 

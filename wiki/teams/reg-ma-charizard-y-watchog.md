@@ -7,6 +7,7 @@
 | Creator | [elijahthazkid](https://x.com/elijahthazkid) |
 | Pokepaste | [https://pokepast.es/d8d8614da04e6e02](https://pokepast.es/d8d8614da04e6e02) |
 | Source | [CybertronVGC - No one uses this Pokemon... is it any good?](https://youtube.com/watch?v=MDx7Ns9uoR4) |
+| Video Date | 2026-04-30 |
 
 ## Strategy
 

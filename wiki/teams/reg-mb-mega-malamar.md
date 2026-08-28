@@ -6,6 +6,7 @@
 | Creator | [mumemo168](https://x.com/mumemo168) |
 | Pokepaste | [https://pokepast.es/0b7e8454fb36f763](https://pokepast.es/0b7e8454fb36f763) |
 | Source | [CybertronVGC — Top NEW MEGA teams to try RIGHT NOW in Pokemon Champions](https://www.youtube.com/watch?v=0YWCnAGJNUY) (10:18) |
+| Video Date | 2026-06-19 |
 
 ## Strategy
 

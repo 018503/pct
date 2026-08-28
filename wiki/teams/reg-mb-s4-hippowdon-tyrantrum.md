@@ -8,6 +8,7 @@
 | Creator | [1803gi](https://x.com/1803gi) (Tatsuya Watanuki) |
 | Pokepaste | https://pokepast.es/e68e9f346f94711a |
 | Source | [CybertronVGC — You've never seen a team like this before in Pokemon Champions](https://www.youtube.com/watch?v=Pu44qg-AwHw) (2026-08-14) |
+| Video Date | 2026-08-14 |
 
 ## Strategy
 

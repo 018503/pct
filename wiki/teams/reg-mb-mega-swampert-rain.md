@@ -6,6 +6,7 @@
 | Creator | [kashiwagineru](https://x.com/kashiwagineru) |
 | Pokepaste | [https://pokepast.es/4ae56d8bc5d3ca2a](https://pokepast.es/4ae56d8bc5d3ca2a) |
 | Source | [CybertronVGC — Top NEW MEGA teams to try RIGHT NOW in Pokemon Champions](https://www.youtube.com/watch?v=0YWCnAGJNUY) (17:50) |
+| Video Date | 2026-06-19 |
 
 ## Strategy
 

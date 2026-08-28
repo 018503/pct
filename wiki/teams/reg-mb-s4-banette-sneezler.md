@@ -8,6 +8,7 @@
 | Creator | [roku_pokemon](https://x.com/roku_pokemon/status/2084999542513250407?s=20) |
 | Pokepaste | https://pokepast.es/675ad12ccd160526 |
 | Source | [CybertronVGC — Let me show you MEGA BANETTE's true potential](https://www.youtube.com/watch?v=QS7GtlEbcDg) (0:00) |
+| Video Date | 2026-08-25 |
 
 ## Strategy
 

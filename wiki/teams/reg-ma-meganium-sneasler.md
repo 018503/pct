@@ -7,6 +7,7 @@
 | Creator | [SudozZ](https://x.com/SudozZ) |
 | Pokepaste | [https://pokepast.es/4825fb8f2d32be27](https://pokepast.es/4825fb8f2d32be27) |
 | Source | [CybertronVGC - This might be the BEST MEGA MEGANIUM team right no](https://youtube.com/watch?v=KZoWc9QE1OU) |
+| Video Date | 2026-04-23 |
 
 ## Strategy
 

@@ -5,6 +5,7 @@
 | Regulation | MB |
 | Pokepaste | [https://pokepast.es/96d32c35ce3e4b05](https://pokepast.es/96d32c35ce3e4b05) |
 | Source | [CybertronVGC - I found the best way to use Mega Falinks](https://youtube.com/watch?v=op_gkcgZCL8) |
+| Video Date | 2026-08-06 |
 
 ## Strategy
 

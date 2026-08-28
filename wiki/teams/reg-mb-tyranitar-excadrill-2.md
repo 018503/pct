@@ -6,6 +6,7 @@
 | Creator | [lovejapanfrombr](https://x.com/lovejapanfrombr) |
 | Pokepaste | [https://pokepast.es/c12f688c33b0241f](https://pokepast.es/c12f688c33b0241f) |
 | Source | [CybertronVGC - Sand is the perfect ANTI-META strategy right now](https://youtube.com/watch?v=2SvxFrEwvaw) |
+| Video Date | 2026-07-21 |
 
 ## Strategy
 

@@ -6,6 +6,7 @@
 | Rental Code | 7KLH893NDQ |
 | Pokepaste | [https://pokepast.es/58dfd6d2cc83d553](https://pokepast.es/58dfd6d2cc83d553) |
 | Source | [CybertronVGC - This is the MOST NON-META Champion tier team I've ](https://youtube.com/watch?v=1UF7rrRQot0) |
+| Video Date | 2026-05-29 |
 
 ## Strategy
 

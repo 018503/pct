@@ -6,6 +6,7 @@
 | Rental Code | V49EWELWR6 |
 | Pokepaste | [https://pokepast.es/073faac2d873cf1b](https://pokepast.es/073faac2d873cf1b) |
 | Source | [CybertronVGC - I tried to make Mega Eelektross work in Pokémon Ch](https://youtube.com/watch?v=NWbeosiGkac) |
+| Video Date | 2026-06-21 |
 
 ## Strategy
 

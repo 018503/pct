@@ -6,6 +6,7 @@
 | Rental Code | XEX629QEEY |
 | Pokepaste | [https://pokepast.es/0e2147e72cacc417](https://pokepast.es/0e2147e72cacc417) |
 | Source | [CybertronVGC - Mega Staraptor might be the best new Mega Evolutio](https://youtube.com/watch?v=ES4APGm7KPw) |
+| Video Date | 2026-06-18 |
 
 ## Strategy
 

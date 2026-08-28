@@ -7,6 +7,7 @@
 | Creator | [atmospherevgc](https://x.com/atmospherevgc) |
 | Pokepaste | [https://pokepast.es/898dd093bb3275f3](https://pokepast.es/898dd093bb3275f3) |
 | Source | [CybertronVGC - Mega Gyarados is really underrated](https://youtube.com/watch?v=o0FJYfN9g_k) |
+| Video Date | 2026-06-10 |
 
 ## Strategy
 

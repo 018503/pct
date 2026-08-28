@@ -6,6 +6,7 @@
 | Creator | [hamanrisub12345](https://x.com/hamanrisub12345) |
 | Pokepaste | [https://pokepast.es/2b1b2eca5f8893b5](https://pokepast.es/2b1b2eca5f8893b5) |
 | Source | [CybertronVGC - Mega Ampharos might actually be good](https://youtube.com/watch?v=08T2WWdumTo) |
+| Video Date | 2026-06-16 |
 
 ## Strategy
 

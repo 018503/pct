@@ -7,6 +7,7 @@
 | Creator | [SalTheDealer](https://x.com/SalTheDealer) |
 | Pokepaste | [https://pokepast.es/3f1172f05dbb7228](https://pokepast.es/3f1172f05dbb7228) |
 | Source | [CybertronVGC - I tried the BEST TEAM from the FIRST Pokemon Champ](https://youtube.com/watch?v=XbB0PYjorIs) |
+| Video Date | 2026-06-07 |
 
 ## Strategy
 

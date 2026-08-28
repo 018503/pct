@@ -8,6 +8,7 @@
 | Creator | [barudoru](https://x.com/barudoru) (Ryota Otsubo, 2017 World Champion) |
 | Pokepaste | https://pokepast.es/0eee90eb60b53193 |
 | Source | [CybertronVGC — A WORLD CHAMP built a SUPER FUN Mega Gallade team](https://www.youtube.com/watch?v=ALkqvm5uJfo&t=0s) |
+| Video Date | 2026-08-18 |
 
 ## Strategy
 

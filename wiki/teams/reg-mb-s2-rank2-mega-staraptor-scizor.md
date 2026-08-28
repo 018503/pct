@@ -8,6 +8,7 @@
 | Creator | [yanagiT_poke](https://x.com/yanagiT_poke) |
 | Pokepaste | https://pokepast.es/419ea805a573a33d |
 | Source | [CybertronVGC — 15 of the BEST TEAMS](https://www.youtube.com/watch?v=nl7J2IYG2Ic) (03:50) |
+| Video Date | 2026-08-08 |
 
 ## Strategy
 

@@ -6,6 +6,7 @@
 | Creator | [LexiconVGC](https://x.com/LexiconVGC) |
 | Pokepaste | [https://pokepast.es/d9deb312ec0355ee](https://pokepast.es/d9deb312ec0355ee) |
 | Source | [CybertronVGC - This new team BROKE the Pokemon Champions metagame](https://youtube.com/watch?v=6ZvxF-HV0f4) |
+| Video Date | 2026-07-14 |
 
 ## Strategy
 

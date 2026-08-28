@@ -7,6 +7,7 @@
 | Creator | [augchari](https://x.com/augchari) |
 | Pokepaste | [https://pokepast.es/7b29e3ac0adbc0a2](https://pokepast.es/7b29e3ac0adbc0a2) |
 | Source | [CybertronVGC - This Mega Glimmora team WON a NATIONAL championshi](https://youtube.com/watch?v=aUG5UYmrlDI) |
+| Video Date | 2026-05-27 |
 
 ## Strategy
 

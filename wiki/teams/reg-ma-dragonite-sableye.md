@@ -6,6 +6,7 @@
 | Rental Code | UBVEGRW250 |
 | Pokepaste | [https://pokepast.es/31218dceba60d1b2](https://pokepast.es/31218dceba60d1b2) |
 | Source | [CybertronVGC - I created a BROKEN strategy and won 17 games IN A ](https://youtube.com/watch?v=RldZdg5PL7U) |
+| Video Date | 2026-04-28 |
 
 ## Strategy
 

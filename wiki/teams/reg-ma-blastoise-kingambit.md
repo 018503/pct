@@ -7,6 +7,7 @@
 | Creator | [StarRaikouVGC](https://x.com/StarRaikouVGC) |
 | Pokepaste | [https://pokepast.es/2f2077c687cb72d1](https://pokepast.es/2f2077c687cb72d1) |
 | Source | [CybertronVGC - WIN games QUICKLY with this MEGA BLASTOISE team](https://youtube.com/watch?v=RiRcR6h6t9M) |
+| Video Date | 2026-04-24 |
 
 ## Strategy
 

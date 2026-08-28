@@ -7,6 +7,7 @@
 | Creator | [bapdabo](https://x.com/bapdabo) |
 | Pokepaste | [https://pokepast.es/37727e5d9078ed13](https://pokepast.es/37727e5d9078ed13) |
 | Source | [CybertronVGC - This OFF-META Mega Raichu X team made it to Champi](https://youtube.com/watch?v=9R5YJuM-h5Y) |
+| Video Date | 2026-07-02 |
 
 ## Strategy
 

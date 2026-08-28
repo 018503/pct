@@ -7,6 +7,7 @@
 | Creator | [CarsonConfer](https://x.com/CarsonConfer) |
 | Pokepaste | [https://pokepast.es/40ea8d96c2ff1e57](https://pokepast.es/40ea8d96c2ff1e57) |
 | Source | [CybertronVGC - Baton Pass Espathra + Archaludon is EVIL](https://youtube.com/watch?v=70h27z7trGI) |
+| Video Date | 2026-06-05 |
 
 ## Strategy
 

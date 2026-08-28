@@ -6,6 +6,7 @@
 | Creator | [NikyuAlex](https://x.com/NikyuAlex) |
 | Pokepaste | [https://pokepast.es/b960cc721c280284](https://pokepast.es/b960cc721c280284) |
 | Source | [CybertronVGC — Top NEW MEGA teams to try RIGHT NOW in Pokemon Champions](https://www.youtube.com/watch?v=0YWCnAGJNUY) (21:07) |
+| Video Date | 2026-06-19 |
 
 ## Strategy
 
