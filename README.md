@@ -14,6 +14,8 @@ Browse and compare VGC championship teams from Reg MA and Reg MB.
 
 ## Structure
 
-- `champions-teams.html` — the self-contained team browser (CSS + JS + data inline)
-- `teams.duckdb` — team data in DuckDB format
+- `champions-teams.html` — interactive team browser (loads data from `data/`)
+- `data/champions-data.json` — team and type data for the HTML browser
+- `data/teams.duckdb` — team data in DuckDB format
+- `data/megas.duckdb` — mega evolution data in DuckDB format
 - `wiki/` — guides and team analyses in markdown

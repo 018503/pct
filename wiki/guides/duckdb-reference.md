@@ -1,18 +1,18 @@
 # DuckDB Team Database Reference
 
-The teams database at `pokemon/teams.duckdb` contains every team from the wiki in a queryable format. Use it for metagame analysis, spread comparisons, and teammate correlations.
+The teams database at `pokemon/data/teams.duckdb` contains every team from the wiki in a queryable format. Use it for metagame analysis, spread comparisons, and teammate correlations.
 
 ## Setup
 
 ```bash
 pip install duckdb
-python3 -c "import duckdb; con = duckdb.connect('teams.duckdb', read_only=True); print(con.execute('SELECT COUNT(*) FROM teams').fetchone())"
+python3 -c "import duckdb; con = duckdb.connect('data/teams.duckdb', read_only=True); print(con.execute('SELECT COUNT(*) FROM teams').fetchone())"
 ```
 
 Or use the DuckDB CLI directly:
 
 ```bash
-duckdb pokemon/teams.duckdb
+duckdb pokemon/data/teams.duckdb
 ```
 
 ## Schema
