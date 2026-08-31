@@ -175,10 +175,17 @@ function baseName(pokemon) {
   return capitalize(pokemon);
 }
 
+const SPRITE_OVERRIDES = {'meowstic-male':'meowstic','meowstic-female':'meowstic-f','tatsugiri-curly':'tatsugiri'};
 function spriteUrl(name) {
   let s = name.toLowerCase().replace(/\s+/g, '');
   s = s.replace(/-mega-([xyz])$/, '-mega$1');
+  s = SPRITE_OVERRIDES[s] || s;
   return 'https://play.pokemonshowdown.com/sprites/dex/' + s + '.png';
+}
+function spriteUrlHome(name) {
+  let s = name.toLowerCase().replace(/\s+/g, '');
+  s = SPRITE_OVERRIDES[s] || s;
+  return 'https://play.pokemonshowdown.com/sprites/home/' + s + '.png';
 }
 
 function typeBadge(t) {
@@ -188,6 +195,7 @@ function typeBadge(t) {
 
 function renderCard(megaForm, d) {
   const baseSprite = spriteUrl(d.pokemon);
+  const baseHome = spriteUrlHome(d.pokemon);
   const megaSprite = spriteUrl(megaForm);
   const bst = d.stats.bst;
   const bstSign = bst.diff > 0 ? '+' : '';
@@ -230,9 +238,9 @@ function renderCard(megaForm, d) {
   return '<div class="mega-card" data-name="' + megaForm + '" data-pokemon="' + d.pokemon + '">' +
     '<div class="mega-header">' +
       '<div class="mega-sprites">' +
-        '<img class="mon-sprite" src="' + baseSprite + '" alt="' + baseName(d.pokemon) + '" loading="lazy">' +
+        '<img class="mon-sprite" src="' + baseSprite + '" alt="' + baseName(d.pokemon) + '" loading="lazy" data-home="' + baseHome + '" onerror="if(this.dataset.home){this.src=this.dataset.home;delete this.dataset.home}else{this.style.opacity=0.3;this.onerror=null}">' +
         '<span class="sprite-arrow">→</span>' +
-        '<img class="mon-sprite" src="' + megaSprite + '" alt="?" loading="lazy" onerror="this.style.opacity=0.15;this.src=\'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\';this.onerror=null">' +
+        '<img class="mon-sprite" src="' + megaSprite + '" alt="?" loading="lazy" data-base="' + baseSprite + '" data-basehome="' + baseHome + '" onerror="if(this.dataset.base){var b=this.dataset.base;var bh=this.dataset.basehome;delete this.dataset.base;delete this.dataset.basehome;this.style.opacity=0.5;this.src=b;this.onerror=function(){this.src=bh;this.onerror=null}}else{this.onerror=null}">' +
       '</div>' +
       '<div class="mega-info">' +
         '<div class="mega-name">' + displayName(megaForm) + '</div>' +
