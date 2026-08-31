@@ -238,7 +238,7 @@ function moveHtmlSm(move){const t=MT[move]||'Normal';return '<span class="move-e
 
 
 // Load data from external JSON
-fetch('champions-data.json')
+fetch('data/champions-data.json')
   .then(r => r.json())
   .then(data => {
     TYPES = data.types;
