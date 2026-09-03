@@ -1,5 +1,11 @@
 # Log
 
+## [2026-09-03] ingest | 1 CybertronVGC team (dwDkRA9ET-U)
+
+Ingested 1 new team from CybertronVGC dedicated video (Sep 02 2026):
+
+- **2026 World Champion — Mega Dragonite / Mega Floette** (dwDkRA9ET-U) — Takuma Yamazaki's World Championship winning team. Dual mega pairing of Dragonite (Multiscale special attacker with Dragon Pulse / Heat Wave) and Floette-Eternal (near-max Speed/SpA Light of Ruin nuke). Fake Out + Feint Sneasler creates turn-one guessing games. Choice Scarf Garchomp outspeeds entire format. Specially defensive Chople Kingambit survives Light of Ruin. Life Orb Adaptability Basculegion as endgame Last Respects closer.
+
 ## [2026-08-28] ingest | 1 CybertronVGC team (8Q9ZIaIlvrc)
 
 Ingested 1 new team from CybertronVGC dedicated video (Aug 26 2026):
