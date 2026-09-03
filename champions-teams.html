@@ -551,8 +551,8 @@ function renderCompare() {
 }
 
 function toggleTeam(idx){
-  document.querySelectorAll('.team-card').forEach((c,i)=>{
-    if(i===idx)c.classList.toggle('open');
+  document.querySelectorAll('.team-card').forEach(c=>{
+    if(+c.dataset.idx===idx)c.classList.toggle('open');
     else c.classList.remove('open');
   });
 }
