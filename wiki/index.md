@@ -226,6 +226,7 @@ Source: Individual CybertronVGC Road to Ranked / gameplay videos (June-August 20
 | 32 | Let me show you MEGA BANETTE's true potential | [roku_pokemon](https://x.com/roku_pokemon) | 43T0PE8TL8 | [link](teams/reg-mb-s4-banette-sneezler.md) |
 | 33 | I tried the BEST Glaceon team in Pokemon Champions | [Betchman22](https://x.com/Betchman22) | H59R1YGEDJ | [link](teams/reg-mb-s4-glaceon-froslass-glimmora.md) |
 | 34 | 2026 World Champion — Mega Dragonite / Mega Floette | [natsumewato](https://x.com/natsumewato) | A4RBRNN9YE | [link](teams/reg-mb-worlds-2026-dragonite-floette.md) |
+| 35 | Best Mega Blaziken — Trick Room Primarina (Worlds Top 16) | Filip Wozniak & DuckiiVG | 6KU5JESD0W | [link](teams/reg-mb-blaziken-primarina-worlds.md) |
 
 ## Regulation MB — CybertronVGC Roundup Teams
 

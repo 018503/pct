@@ -1,5 +1,11 @@
 # Log
 
+## [2026-09-06] ingest | 1 CybertronVGC team (s6NQsWOt4ws)
+
+Ingested 1 new team from CybertronVGC dedicated video (Sep 04 2026):
+
+- **Best Mega Blaziken — Trick Room Primarina** (s6NQsWOt4ws) — Filip Wozniak's Top 16 (15th) team from 2026 World Championships. Mega Blaziken paired with Trick Room Farigiraf and Life Orb Primarina as pseudo-second mega. Max-speed Adamant Kingambit works outside Trick Room. Quiet Primarina's Aqua Jet surprises at KO thresholds. Torkoal/Venusaur sun mode as secondary lead option.
+
 ## [2026-09-03] ingest | 1 CybertronVGC team (dwDkRA9ET-U)
 
 Ingested 1 new team from CybertronVGC dedicated video (Sep 02 2026):
