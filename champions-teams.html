@@ -409,7 +409,7 @@ function renderHistogram(){
   </div>`;
   el.innerHTML=`<div class="histogram-panel">
     <div class="histogram-header">
-      <img class="histogram-sprite" src="${spriteUrl(monName)}" onerror="this.style.display='none'" alt="${monName}">
+      <img class="histogram-sprite" src="${spriteUrl(monName)}" onerror="if(this.src.includes('/dex/')){this.src=this.src.replace('/dex/','/gen5/')}else{this.style.display='none'}" alt="${monName}">
       <div class="histogram-title">${monName}<span>${n} build${n>1?'s':''}</span></div>
     </div>
     <div class="histogram-median-label" style="text-align:center;padding-top:8px">Median Stats</div>
@@ -466,7 +466,7 @@ function renderTeams() {
         <div class="team-pokemon">${team.p.map(m => {
           const monName = m[6]||m[0];
           const isHl = highlightMons && activeFilter && (monName.toLowerCase()===activeFilter || m[0].toLowerCase()===activeFilter);
-          return `<span class="mon-pill${isHl?' hl':''}"><img class="pill-sprite" src="${spriteUrl(monName)}" onerror="this.src=spriteUrl('${m[0]}')" alt="" loading="lazy">${m[6]||m[0]}</span>`;
+          return `<span class="mon-pill${isHl?' hl':''}"><img class="pill-sprite" src="${spriteUrl(monName)}" onerror="if(this.src.includes('/dex/')){var b=spriteUrl('${m[0]}');if(this.src!==b){this.src=b}else{this.src=b.replace('/dex/','/gen5/')}}else{this.style.display='none'}" alt="" loading="lazy">${m[6]||m[0]}</span>`;
         }).join('')}</div>
         <svg class="expand-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
       </div>
@@ -497,7 +497,7 @@ function renderMon(m, hlActive) {
   }
   const natStr=nat.up?`${nature} (+${SL[SK.indexOf(nat.up)]} -${SL[SK.indexOf(nat.dn)]})`:(nature||'Neutral');
   return `<div class="mon-card${isHl?' hl':''}">
-    <div class="mon-top"><div class="mon-top-left"><img class="mon-sprite" src="${spriteUrl(monName)}" onerror="this.src=spriteUrl('${species}')" alt="${monName}" loading="lazy"><div><span class="mon-species">${mega?mega:species}</span><div class="type-badges">${typeBadges(monName)}</div></div></div><div class="mon-top-right"><span class="mon-nature">${natStr}</span><div class="mon-sub">${item?'<img class="item-sprite-sm" src="'+itemSpriteUrl(item)+'" onerror="this.style.display=\'none\'" alt="" loading="lazy">'+item:'No Item'} &middot; ${ability}</div></div></div>
+    <div class="mon-top"><div class="mon-top-left"><img class="mon-sprite" src="${spriteUrl(monName)}" onerror="if(this.src.includes('/dex/')){var b=spriteUrl('${species}');if(this.src!==b){this.src=b}else{this.src=b.replace('/dex/','/gen5/')}}else{this.style.display='none'}" alt="${monName}" loading="lazy"><div><span class="mon-species">${mega?mega:species}</span><div class="type-badges">${typeBadges(monName)}</div></div></div><div class="mon-top-right"><span class="mon-nature">${natStr}</span><div class="mon-sub">${item?'<img class="item-sprite-sm" src="'+itemSpriteUrl(item)+'" onerror="this.style.display=\'none\'" alt="" loading="lazy">'+item:'No Item'} &middot; ${ability}</div></div></div>
     ${rows}
     <div class="mon-moves">${moves.map(m=>moveHtml(m)).join('')}</div>
   </div>`;
