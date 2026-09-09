@@ -227,6 +227,8 @@ Source: Individual CybertronVGC Road to Ranked / gameplay videos (June-August 20
 | 33 | I tried the BEST Glaceon team in Pokemon Champions | [Betchman22](https://x.com/Betchman22) | H59R1YGEDJ | [link](teams/reg-mb-s4-glaceon-froslass-glimmora.md) |
 | 34 | 2026 World Champion — Mega Dragonite / Mega Floette | [natsumewato](https://x.com/natsumewato) | A4RBRNN9YE | [link](teams/reg-mb-worlds-2026-dragonite-floette.md) |
 | 35 | Best Mega Blaziken — Trick Room Primarina (Worlds Top 16) | Filip Wozniak & DuckiiVG | 6KU5JESD0W | [link](teams/reg-mb-blaziken-primarina-worlds.md) |
+| 36 | Kleavor + Mega Metagross — 2026 Worlds Top 16 | [chlotad](https://x.com/chlotad) | MRXF8PLNNM | [link](teams/reg-mb-worlds-metagross-kleavor.md) |
+| 37 | Mega Charizard X / Venusaur BLUFF — Champion Tier | [Okhotsk1222](https://x.com/Okhotsk1222) | 7286G00MW3 | [link](teams/reg-mb-charizard-x-venusaur-bluff.md) |
 
 ## Regulation MB — CybertronVGC Roundup Teams
 

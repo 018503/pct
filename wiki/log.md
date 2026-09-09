@@ -1,5 +1,12 @@
 # Log
 
+## [2026-09-09] ingest | 2 CybertronVGC teams (OBO4ljTvgqo, YUiR976ZhUI)
+
+Ingested 2 new teams from CybertronVGC dedicated videos (Sep 07-08 2026):
+
+- **Kleavor + Mega Metagross — 2026 Worlds Top 16** (OBO4ljTvgqo) — Chloe Bourke's Worlds Top 16 team. Unique pairing of Mega Metagross, Mega Raichu Y, and Kleavor (only 4 players brought Kleavor to Worlds). Kleavor's Stone Axe + stealth rocks shut down Charizard Y, freeing Metagross to sweep. Fairy Feather Whimsicott over Focus Sash for offensive Moonblast damage. Max-speed Kingambit with Low Kick for mirror matchups.
+- **Mega Charizard X / Venusaur BLUFF — Champion Tier** (YUiR976ZhUI) — Okhotsk1222's team preview bluff where opponents expect Charizard Y + Sash Venusaur but face Belly Drum Charizard X and Mega Venusaur. Grimmsnarl dual screens enable Belly Drum setup. Breaking Swipe + Flame Charge let Charizard operate without Belly Drum when needed. Focus Sash Pelipper + Stamina Archaludon as non-mega rain mode.
+
 ## [2026-09-06] ingest | 1 CybertronVGC team (s6NQsWOt4ws)
 
 Ingested 1 new team from CybertronVGC dedicated video (Sep 04 2026):
