@@ -285,7 +285,7 @@ function isTeamVisible(t){
 }
 
 function renderTopFilters(){
-  const regCounts={all:0,MA:0,MB:0};
+  const regCounts={all:0,MA:0,MB:0,MC:0};
   const tnCounts={all:0,tourney:0,community:0};
   T.forEach(t=>{
     const r=getTeamReg(t);
@@ -303,6 +303,7 @@ function renderTopFilters(){
     {k:'all',g:'reg',l:'All',c:regCounts.all},
     {k:'MA',g:'reg',l:'MA',c:regCounts.MA},
     {k:'MB',g:'reg',l:'MB',c:regCounts.MB},
+    {k:'MC',g:'reg',l:'MC',c:regCounts.MC},
     {k:'_sep'},
     {k:'_label',l:'Type'},
     {k:'all',g:'tn',l:'All',c:tnCounts.all},
