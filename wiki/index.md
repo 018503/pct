@@ -262,3 +262,9 @@ Teams from multi-team roundup/analysis videos.
 | 24 | The Pokemon Champions metagame is evolving rapidly - Team 4 | The Pokemon Champions metagame is evolvi | [link](teams/reg-mb-staraptor-whimsicott-3.md) |
 | 25 | So Mega Staraptor finally won a tournament… - Team 1 | So Mega Staraptor finally won a tourname | [link](teams/reg-mb-staraptor-garchomp.md) |
 | 26 | So Mega Staraptor finally won a tournament… - Team 2 | So Mega Staraptor finally won a tourname | [link](teams/reg-mb-staraptor-glimmora-2.md) |
+
+## Regulation MC — CybertronVGC Ladder Teams
+
+| # | Team | Creator | Rental Code | Page |
+|---|---|---|---|---|
+| 1 | Mega Golisopod — Trick Room Rain | CybertronVGC | 3F0M59W18V | [link](teams/reg-mc-golisopod-politoed-tr.md) |

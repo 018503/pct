@@ -1,5 +1,11 @@
 # Log
 
+## [2026-09-11] ingest | 1 CybertronVGC team (R7y8NvkTq3U)
+
+Ingested 1 new team from CybertronVGC dedicated video (Sep 10 2026):
+
+- **Mega Golisopod — Trick Room Rain** (R7y8NvkTq3U) — First Regulation MC team. Cybertron's own Mega Golisopod build featuring Tough Claws four-attack sweeper (First Impression/Leech Life/Iron Head/Liquidation) under Trick Room with Farigiraf. Life Orb Politoed rain covers 4x fire weakness. Coaching Pawmot for non-TR mode. Choice Scarf Staraptor Final Gambit lead. Golisopod-Mega is Bug/Steel type with 150 Atk / 175 Def / 120 SpD base stats.
+
 ## [2026-09-09] ingest | 2 CybertronVGC teams (OBO4ljTvgqo, YUiR976ZhUI)
 
 Ingested 2 new teams from CybertronVGC dedicated videos (Sep 07-08 2026):
