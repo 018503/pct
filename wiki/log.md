@@ -1,5 +1,11 @@
 # Log
 
+## [2026-09-16] ingest | 1 CybertronVGC team (mo-qCv7wfD4)
+
+Ingested 1 new team from CybertronVGC dedicated video (Sep 13 2026):
+
+- **Mega Salamence — Mixed Tailwind Offense** (mo-qCv7wfD4) — SableyeVGC's tournament-winning Mega Salamence team (1st place, 150+ player MC online tournament). Mixed Naive Aerilate set with Hyper Voice + Double-Edge + Tailwind. Supported by Rillaboom (Grassy Seed for Sneasler's Unburden), Rock Head Hisuian Arcanine (recoilless Flare Blitz/Head Smash), four-attack Chople Kingambit, and Adaptability Basculegion as endgame Last Respects closer. First Mega Salamence team in the wiki. Added types for Salamence, Salamence-Mega, and Rillaboom. Added Grassy Glide and Wood Hammer to move-type mapping.
+
 ## [2026-09-11] ingest | 1 CybertronVGC team (R7y8NvkTq3U)
 
 Ingested 1 new team from CybertronVGC dedicated video (Sep 10 2026):

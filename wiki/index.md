@@ -268,3 +268,4 @@ Teams from multi-team roundup/analysis videos.
 | # | Team | Creator | Rental Code | Page |
 |---|---|---|---|---|
 | 1 | Mega Golisopod — Trick Room Rain | CybertronVGC | 3F0M59W18V | [link](teams/reg-mc-golisopod-politoed-tr.md) |
+| 2 | Mega Salamence — Mixed Tailwind Offense | [SableyeVGC](https://x.com/SableyeVGC) | U7C92RMPR1 | [link](teams/reg-mc-salamence-rillaboom.md) |
