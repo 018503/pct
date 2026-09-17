@@ -1,5 +1,11 @@
 # Log
 
+## [2026-09-17] ingest | 1 CybertronVGC team (yBmnj7WAX9w)
+
+Ingested 1 new team from CybertronVGC dedicated video (Sep 15 2026):
+
+- **Mega Baxcalibur — Coaching Offense** (yBmnj7WAX9w) — PathogenVGC's Coaching Sneasler + Mega Baxcalibur team. Baxcalibur-Mega keeps Thermal Exchange, runs max HP/Spe Adamant with Glaive Rush + Ice Shard + High Horsepower for steel coverage. Aurora Veil Alolan Ninetales (Light Clay), Life Orb Nasty Plot Gholdengo, Competitive Milotic, and Intimidate Incineroar round out support. First Mega Baxcalibur team in the wiki. Added types for Baxcalibur line, added Glaive Rush to move-type mapping.
+
 ## [2026-09-16] ingest | 1 CybertronVGC team (mo-qCv7wfD4)
 
 Ingested 1 new team from CybertronVGC dedicated video (Sep 13 2026):

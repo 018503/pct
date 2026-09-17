@@ -269,3 +269,4 @@ Teams from multi-team roundup/analysis videos.
 |---|---|---|---|---|
 | 1 | Mega Golisopod — Trick Room Rain | CybertronVGC | 3F0M59W18V | [link](teams/reg-mc-golisopod-politoed-tr.md) |
 | 2 | Mega Salamence — Mixed Tailwind Offense | [SableyeVGC](https://x.com/SableyeVGC) | U7C92RMPR1 | [link](teams/reg-mc-salamence-rillaboom.md) |
+| 3 | Mega Baxcalibur — Coaching Offense | [PathogenVGC](https://x.com/PathogenVGC) | 4907CAA8K6 | [link](teams/reg-mc-baxcalibur-ninetales-alola.md) |
