@@ -207,9 +207,9 @@ const SK=["hp","at","df","sa","sd","sp"];
 const SL=["HP","Atk","Def","SpA","SpD","Spe"];
 let TYPES = {};
 let T = [];
-function spriteUrl(name){let s=name.toLowerCase().replace(/\s+/g,'');s=s.replace(/-mega-([xy])$/,'-mega$1');s=s.replace(/-o$/,'o');return 'https://play.pokemonshowdown.com/sprites/dex/'+s+'.png';}
+function spriteUrl(name){let s=name.toLowerCase().replace(/['\u2018\u2019]/g,'').replace(/\s+/g,'');s=s.replace(/-mega-([xy])$/,'-mega$1');s=s.replace(/-o$/,'o');return 'https://play.pokemonshowdown.com/sprites/dex/'+s+'.png';}
 function typeBadges(name){const t=TYPES[name]||TYPES[name.split('-Mega')[0]]||[];return t.map(t=>'<span class="type-badge type-'+t+'">'+t+'</span>').join('');}
-function itemSpriteUrl(item){return 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/'+item.toLowerCase().replace(/['']/g,'').replace(/\s+/g,'-')+'.png';}
+const ITEM_ALIAS={Leek:'stick'};function itemSpriteUrl(item){const n=ITEM_ALIAS[item]||item.toLowerCase().replace(/['‘’]/g,'').replace(/\s+/g,'-');return 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/'+n+'.png';}
 const MT={};
 [['Normal','After You,Baton Pass,Belly Drum,Body Slam,Boomburst,Disable,Double-Edge,Encore,Endeavor,Extreme Speed,Facade,Fake Out,Feint,Follow Me,Giga Impact,Glare,Helping Hand,Hyper Beam,Hyper Voice,Perish Song,Population Bomb,Protect,Psych Up,Quick Attack,Recover,Revival Blessing,Roar,Scary Face,Shed Tail,Shell Smash,Sing,Slack Off,Substitute,Super Fang,Swagger,Swords Dance,Tickle,Weather Ball,Yawn'],
 ['Fire','Bitter Blade,Burn Up,Burning Jealousy,Eruption,Fire Blast,Flame Charge,Flamethrower,Flare Blitz,Heat Wave,Overheat,Sunny Day,Will-O-Wisp'],
@@ -468,7 +468,7 @@ function renderTeams() {
         <div class="team-pokemon">${team.p.map(m => {
           const monName = m[6]||m[0];
           const isHl = highlightMons && activeFilter && (monName.toLowerCase()===activeFilter || m[0].toLowerCase()===activeFilter);
-          return `<span class="mon-pill${isHl?' hl':''}"><img class="pill-sprite" src="${spriteUrl(monName)}" onerror="if(this.src.includes('/dex/')){var b=spriteUrl('${m[0]}');if(this.src!==b){this.src=b}else{this.src=b.replace('/dex/','/gen5/')}}else{this.style.display='none'}" alt="" loading="lazy">${m[6]||m[0]}</span>`;
+          return `<span class="mon-pill${isHl?' hl':''}"><img class="pill-sprite" src="${spriteUrl(monName)}" onerror="if(this.src.includes('/dex/')){var b='${spriteUrl(m[0])}';if(this.src!==b){this.src=b}else{this.src=b.replace('/dex/','/gen5/')}}else{this.style.display='none'}" alt="" loading="lazy">${m[6]||m[0]}</span>`;
         }).join('')}</div>
         <svg class="expand-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
       </div>
@@ -499,7 +499,7 @@ function renderMon(m, hlActive) {
   }
   const natStr=nat.up?`${nature} (+${SL[SK.indexOf(nat.up)]} -${SL[SK.indexOf(nat.dn)]})`:(nature||'Neutral');
   return `<div class="mon-card${isHl?' hl':''}">
-    <div class="mon-top"><div class="mon-top-left"><img class="mon-sprite" src="${spriteUrl(monName)}" onerror="if(this.src.includes('/dex/')){var b=spriteUrl('${species}');if(this.src!==b){this.src=b}else{this.src=b.replace('/dex/','/gen5/')}}else{this.style.display='none'}" alt="${monName}" loading="lazy"><div><span class="mon-species">${mega?mega:species}</span><div class="type-badges">${typeBadges(monName)}</div></div></div><div class="mon-top-right"><span class="mon-nature">${natStr}</span><div class="mon-sub">${item?'<img class="item-sprite-sm" src="'+itemSpriteUrl(item)+'" onerror="this.style.display=\'none\'" alt="" loading="lazy">'+item:'No Item'} &middot; ${ability}</div></div></div>
+    <div class="mon-top"><div class="mon-top-left"><img class="mon-sprite" src="${spriteUrl(monName)}" onerror="if(this.src.includes('/dex/')){var b='${spriteUrl(species)}';if(this.src!==b){this.src=b}else{this.src=b.replace('/dex/','/gen5/')}}else{this.style.display='none'}" alt="${monName}" loading="lazy"><div><span class="mon-species">${mega?mega:species}</span><div class="type-badges">${typeBadges(monName)}</div></div></div><div class="mon-top-right"><span class="mon-nature">${natStr}</span><div class="mon-sub">${item?'<img class="item-sprite-sm" src="'+itemSpriteUrl(item)+'" onerror="this.style.display=\'none\'" alt="" loading="lazy">'+item:'No Item'} &middot; ${ability}</div></div></div>
     ${rows}
     <div class="mon-moves">${moves.map(m=>moveHtml(m)).join('')}</div>
   </div>`;
