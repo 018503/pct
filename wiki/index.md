@@ -14,6 +14,7 @@ Source: [VGCguide.com](https://www.vgcguide.com) — comprehensive text resource
 | [Managing Variance](guides/managing-variance.md) | Luck as a skill, accuracy vs power, consistency, surprise factor |
 | [Tournament Prep](guides/tournament-prep.md) | Bo1 vs Bo3, choosing a team, ladder ratings, pre-tournament checklist |
 | [DuckDB Reference](guides/duckdb-reference.md) | Query the teams database — schema, stat formulas, common queries for metagame analysis |
+| [Reg MC Winners & Losers](guides/reg-mc-winners-losers.md) | Moxie Boosted's meta analysis — Gholdengo, Milotic, Sneasler, Volcarona, Metagross, H-Arcanine up; Basculegion, Garchomp, Farigiraf, Kingambit, Tyranitar, Charizard down |
 
 
 ## Teambuilds
@@ -270,3 +271,4 @@ Teams from multi-team roundup/analysis videos.
 | 1 | Mega Golisopod — Trick Room Rain | CybertronVGC | 3F0M59W18V | [link](teams/reg-mc-golisopod-politoed-tr.md) |
 | 2 | Mega Salamence — Mixed Tailwind Offense | [SableyeVGC](https://x.com/SableyeVGC) | U7C92RMPR1 | [link](teams/reg-mc-salamence-rillaboom.md) |
 | 3 | Mega Baxcalibur — Coaching Offense | [PathogenVGC](https://x.com/PathogenVGC) | 4907CAA8K6 | [link](teams/reg-mc-baxcalibur-ninetales-alola.md) |
+| 4 | Mega Golisopod + Sirfetch'd — Trick Room Offense | [asc5543](https://x.com/asc5543) | FNMLD0MNUH | [link](teams/reg-mc-golisopod-sirfetchd-tr.md) |

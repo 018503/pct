@@ -1,5 +1,15 @@
 # Log
 
+## [2026-09-20] ingest | 1 CybertronVGC team (xp4bnjZdAp0)
+
+Ingested 1 new team from CybertronVGC dedicated video (Sep 17 2026):
+
+- **Mega Golisopod + Sirfetch'd — Trick Room Offense** (xp4bnjZdAp0) — asc5543's team pairing Sirfetch'd with Mega Golisopod under Trick Room. Scrappy Close Combat covers Incineroar and Gholdengo; Leek-boosted crits add massive damage. Sucker Punch Golisopod for dark coverage against steels. Whimsicott + Mega Glimmora Tailwind as secondary mode for fire-type matchups. First Sirfetch'd team in the wiki. Added Meteor Assault to move-type mapping, added Sirfetch'd type.
+
+## [2026-09-17] meta analysis | Reg MC Winners & Losers (TMR1JauPqzU)
+
+Added Moxie Boosted's Regulation MC meta analysis to guides. Covers 6 winners (Gholdengo, Milotic, Sneasler, Volcarona, Mega Metagross, Hisuian Arcanine) and 6 losers (Basculegion, Garchomp, Farigiraf, Kingambit, Tyranitar, Charizard) with matchup details, calcs, and set discussion. No team pages or data updates — this is a metagame discussion, not a team ingest.
+
 ## [2026-09-17] ingest | 1 CybertronVGC team (yBmnj7WAX9w)
 
 Ingested 1 new team from CybertronVGC dedicated video (Sep 15 2026):
