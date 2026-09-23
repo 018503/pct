@@ -1,5 +1,13 @@
 # Log
 
+## [2026-09-23] ingest | 3 CybertronVGC teams (d0UiMmqm_RE, n4Fd9FhYaLA, 2f0zyOC1qdo)
+
+Ingested 3 new teams from CybertronVGC dedicated videos:
+
+- **Anti-Meta Psych Up Metagross** (d0UiMmqm_RE, Sep 22 2026) — ArKaneVGC's Baltimore Regionals Top 16 team featuring Psych Up Metagross + Psychic Seed Coil Milotic combo, Life Orb Infiltrator Dragapult, Cloud Nine Altaria for anti-weather, and Rock Head Hisuian Arcanine. First Reg MC tournament result team in the wiki. Reg MC.
+- **Garchomp-Z Metagross Dual Mega** (n4Fd9FhYaLA, Sep 19 2026) — BTrickroomZ/Yuta Ishigaki's dual-mega team pairing Mega Garchomp Z (base 151 Spe special attacker) with Mega Metagross and Quiver Dance Volcarona as a hidden third mega. Triple Fake Out with Incineroar, Rillaboom, Sneasler (Coaching). First Mega Garchomp Z team in the wiki. Added Garchomp-Mega-Z and Indeedee-F types. Reg MC.
+- **Fast Tailwind Mega Mawile** (2f0zyOC1qdo, Aug 20 2026) — samidare281's Top 100 Champion Tier team with a fast Mawile (15 Spe pts, outspeeds Jolly Garchomp under Tailwind). Dual mega with Mega Blastoise, offensive Energy Ball Farigiraf, max speed Sylveon, Scarf Garchomp. Reg MB S2.
+
 ## [2026-09-20] ingest | 1 CybertronVGC team (xp4bnjZdAp0)
 
 Ingested 1 new team from CybertronVGC dedicated video (Sep 17 2026):

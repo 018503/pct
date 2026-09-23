@@ -230,6 +230,7 @@ Source: Individual CybertronVGC Road to Ranked / gameplay videos (June-August 20
 | 35 | Best Mega Blaziken — Trick Room Primarina (Worlds Top 16) | Filip Wozniak & DuckiiVG | 6KU5JESD0W | [link](teams/reg-mb-blaziken-primarina-worlds.md) |
 | 36 | Kleavor + Mega Metagross — 2026 Worlds Top 16 | [chlotad](https://x.com/chlotad) | MRXF8PLNNM | [link](teams/reg-mb-worlds-metagross-kleavor.md) |
 | 37 | Mega Charizard X / Venusaur BLUFF — Champion Tier | [Okhotsk1222](https://x.com/Okhotsk1222) | 7286G00MW3 | [link](teams/reg-mb-charizard-x-venusaur-bluff.md) |
+| 38 | Fast Tailwind Mega Mawile — Top 100 Champion Tier | [samidare281](https://x.com/i/status/2084943319424225715) | 00T730L5SN | [link](teams/reg-mb-s2-fast-mawile-tailwind.md) |
 
 ## Regulation MB — CybertronVGC Roundup Teams
 
@@ -272,3 +273,5 @@ Teams from multi-team roundup/analysis videos.
 | 2 | Mega Salamence — Mixed Tailwind Offense | [SableyeVGC](https://x.com/SableyeVGC) | U7C92RMPR1 | [link](teams/reg-mc-salamence-rillaboom.md) |
 | 3 | Mega Baxcalibur — Coaching Offense | [PathogenVGC](https://x.com/PathogenVGC) | 4907CAA8K6 | [link](teams/reg-mc-baxcalibur-ninetales-alola.md) |
 | 4 | Mega Golisopod + Sirfetch'd — Trick Room Offense | [asc5543](https://x.com/asc5543) | FNMLD0MNUH | [link](teams/reg-mc-golisopod-sirfetchd-tr.md) |
+| 5 | Mega Garchomp Z + Metagross — Dual Mega Offense | [BTrickroomZ](https://x.com/BTrickroomZ) | PGARJCNDJJ | [link](teams/reg-mc-garchomp-z-metagross.md) |
+| 6 | Anti-Meta Psych Up Metagross — Baltimore Top 16 | [ArKaneVGC](https://x.com/ArKaneVGC) | - | [link](teams/reg-mc-top16-metagross-psych-up.md) |
