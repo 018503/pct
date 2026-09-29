@@ -1,5 +1,12 @@
 # Log
 
+## [2026-09-29] ingest | 2 CybertronVGC teams (e5s6tpTwUTw, oy7mHS5uIS8)
+
+Ingested 2 new Reg MC teams from CybertronVGC dedicated videos:
+
+- **Mega Lucario Z — Terrain Pulse Offense** (e5s6tpTwUTw, Sep 25 2026) — shaikhvgc786's 2000+ ELO ladder team. Modest Mega Lucario Z with Terrain Pulse, powered by Indeedee-F (Psychic Surge) and Rillaboom (Grassy Surge), plus Life Orb Armarouge, Swords Dance Grassy Seed Sneasler and Sash Hisuian Arcanine. First Mega Lucario Z team in the wiki. Added Armarouge and Lucario-Mega-Z types; added Armor Cannon, Mystical Fire, Expanding Force, Terrain Pulse to move-type mapping.
+- **Mega Lopunny + Mega Gardevoir — Baltimore Top 16** (oy7mHS5uIS8, Sep 27 2026) — Andreas Wilkerson's 13th place Baltimore Regionals team (HitTheCritty). Dual mega Scrappy Lopunny and Calm Mind Gardevoir with Fake Out enabled Swords Dance Ceruledge and Dragon Dance Dragonite, Psychic Seed Sneasler and Trick Room capable Indeedee-F. Reg MC.
+
 ## [2026-09-23] ingest | 3 CybertronVGC teams (d0UiMmqm_RE, n4Fd9FhYaLA, 2f0zyOC1qdo)
 
 Ingested 3 new teams from CybertronVGC dedicated videos:

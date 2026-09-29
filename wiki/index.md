@@ -275,3 +275,5 @@ Teams from multi-team roundup/analysis videos.
 | 4 | Mega Golisopod + Sirfetch'd — Trick Room Offense | [asc5543](https://x.com/asc5543) | FNMLD0MNUH | [link](teams/reg-mc-golisopod-sirfetchd-tr.md) |
 | 5 | Mega Garchomp Z + Metagross — Dual Mega Offense | [BTrickroomZ](https://x.com/BTrickroomZ) | PGARJCNDJJ | [link](teams/reg-mc-garchomp-z-metagross.md) |
 | 6 | Anti-Meta Psych Up Metagross — Baltimore Top 16 | [ArKaneVGC](https://x.com/ArKaneVGC) | - | [link](teams/reg-mc-top16-metagross-psych-up.md) |
+| 7 | Mega Lucario Z — Terrain Pulse Offense | [shaikhvgc786](https://x.com/shaikhvgc786) | 87WMM6DC3S | [link](teams/reg-mc-lucario-z-terrain-pulse.md) |
+| 8 | Mega Lopunny + Mega Gardevoir — Baltimore Top 16 | [HitTheCritty](https://x.com/HitTheCritty) | 3BVTTCYP2B | [link](teams/reg-mc-top16-lopunny-gardevoir.md) |
