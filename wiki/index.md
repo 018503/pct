@@ -283,3 +283,5 @@ Teams from multi-team roundup/analysis videos.
 | # | Team | Creator | Rental Code | Page |
 |---|------|---------|-------------|------|
 | 1 | Mega Raichu Y + Mega Staraptor — Dual Mega Offense (Victory Road MC winner) | [MichaelderBeste](https://x.com/MichaelderBeste) | N/A | [link](teams/reg-mc-1st-raichu-staraptor-dual-mega.md) |
+| 2 | Mega Meowstic + Mega Charizard Y — Psychic Terrain Dual Mega (Frankfurt Top 4) | [YvarVGC](https://x.com/YvarVGC) | 5R8L6GD1TA | [link](teams/reg-mc-top4-meowstic-charizard-dual-mega.md) |
+| 3 | Mega Lucario Z — Tailwind Hyper Offense | [JamesWBaek](https://x.com/JamesWBaek) | ABCSR7Y2T1 | [link](teams/reg-mc-lucario-z-tailwind-toxic-spikes.md) |

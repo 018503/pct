@@ -1,5 +1,14 @@
 # Log
 
+## [2026-09-30] ingest | 2 more James Baek teams (HjzMsAiaJ5Q, Nwn-9SxyL7I)
+
+Ingested the remaining James Baek videos that have transcripts (4 of 25 do; 9stSL_-n6Pg was done earlier):
+
+- **Mega Meowstic + Mega Charizard Y — Psychic Terrain Dual Mega** (HjzMsAiaJ5Q, Sep 29 2026) — YvarVGC's Frankfurt Regionals Top 4 team. Added Meowstic-F, Meowstic-F-Mega and Indeedee to the type table; Added Frankfurt Regionals tournament badge.
+- **Mega Lucario Z — Tailwind Hyper Offense** (Nwn-9SxyL7I, Sep 21 2026) — James's own ladder team with Talonflame Tailwind, Glimmora toxic spikes and Scarf Basculegion.
+- **Skipped, already in the wiki from CybertronVGC videos** (same pokepastes): 5dgizKao2S4 (Lopunny + Gardevoir, Baltimore Top 16) and m5inFeuElp8 (Psych Up Metagross, Baltimore Top 16).
+- The other 21 James Baek videos have no transcript yet, so they were not ingested.
+
 ## [2026-09-30] ingest | 1 James Baek team (9stSL_-n6Pg)
 
 First video from a new channel, James Baek (UCJbbTSmMzaDhJg2uz6elyPA). Ingested 1 Reg MC team:
