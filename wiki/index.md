@@ -277,3 +277,9 @@ Teams from multi-team roundup/analysis videos.
 | 6 | Anti-Meta Psych Up Metagross — Baltimore Top 16 | [ArKaneVGC](https://x.com/ArKaneVGC) | - | [link](teams/reg-mc-top16-metagross-psych-up.md) |
 | 7 | Mega Lucario Z — Terrain Pulse Offense | [shaikhvgc786](https://x.com/shaikhvgc786) | 87WMM6DC3S | [link](teams/reg-mc-lucario-z-terrain-pulse.md) |
 | 8 | Mega Lopunny + Mega Gardevoir — Baltimore Top 16 | [HitTheCritty](https://x.com/HitTheCritty) | 3BVTTCYP2B | [link](teams/reg-mc-top16-lopunny-gardevoir.md) |
+
+## Regulation MC — James Baek Videos
+
+| # | Team | Creator | Rental Code | Page |
+|---|------|---------|-------------|------|
+| 1 | Mega Raichu Y + Mega Staraptor — Dual Mega Offense (Victory Road MC winner) | [MichaelderBeste](https://x.com/MichaelderBeste) | N/A | [link](teams/reg-mc-1st-raichu-staraptor-dual-mega.md) |

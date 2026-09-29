@@ -1,5 +1,12 @@
 # Log
 
+## [2026-09-30] ingest | 1 James Baek team (9stSL_-n6Pg)
+
+First video from a new channel, James Baek (UCJbbTSmMzaDhJg2uz6elyPA). Ingested 1 Reg MC team:
+
+- **Mega Raichu Y + Mega Staraptor — Dual Mega Offense** (9stSL_-n6Pg, Sep 23 2026) — James's recreation of Mitchio Kelch's team that won the first Victory Road online tournament of Reg MC. Fake Out / Zap Cannon / Tailwind support for a Nasty Plot Gholdengo, plus Focus Sash Hisuian Arcanine, Rillaboom and Sylveon. No rental code.
+- Added a video-creator field: `vc` in `champions-data.json` (existing 184 teams backfilled as CybertronVGC), `video_creator` column in `teams.duckdb`, and a "Video by" filter in `champions-teams.html`.
+
 ## [2026-09-29] ingest | 2 CybertronVGC teams (e5s6tpTwUTw, oy7mHS5uIS8)
 
 Ingested 2 new Reg MC teams from CybertronVGC dedicated videos:
