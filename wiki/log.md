@@ -1,5 +1,15 @@
 # Log
 
+## [2026-10-03] ingest | 10 James Baek teams (transcripts now available)
+
+Ingested the James Baek videos whose transcripts had become available since the last run (10 teams, all new pokepastes):
+
+- **Reg MB** — Mega Greninja rain (atsKNXB8_wE), Mega Golurk + Medicham Trick Room bluff (6HeN4uUB3DA), Mega Houndoom sun (IUyRj5--Mw4), Mega Camerupt + Mega Abomasnow hard Trick Room (gDAf6sfoZ7U, Day 2 Worlds, bdogplatinum).
+- **Reg MA** — Mega Slowbro Simple Beam / Stockpile / Psych Up (QDK-45nmbv4, Takuma's Top 64 Japan Nationals team).
+- **Reg MC** — Mega Golisopod rain (m9IOSoDt4VY), Mega Garchomp Z sand HO (2hSrJDfAWu4), Mega Absol Z Will-O-Wisp support (bJnmkhmQrEM), Mega Baxcalibur snow Aurora Veil (KAQi81kXW0w), Mega Salamence Dragon Cheer + Slash (OD37p6ZYyho).
+- Added 12 species/forms to the type table, 14 moves to the move-type map, and a 2026 Worlds badge for gDAf6sfoZ7U. Mega abilities come from species.js; pre-mega abilities in the wiki come from the transcripts.
+- Not ingested: UMAofE4-Kmc, 1OXd9v48A6w, Dh5TVKJ5Mrg (no transcript yet). Houndoom (IUyRj5--Mw4) has no rental code.
+
 ## [2026-09-30] ingest | 2 more James Baek teams (HjzMsAiaJ5Q, Nwn-9SxyL7I)
 
 Ingested the remaining James Baek videos that have transcripts (4 of 25 do; 9stSL_-n6Pg was done earlier):

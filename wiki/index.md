@@ -285,3 +285,13 @@ Teams from multi-team roundup/analysis videos.
 | 1 | Mega Raichu Y + Mega Staraptor — Dual Mega Offense (Victory Road MC winner) | [MichaelderBeste](https://x.com/MichaelderBeste) | N/A | [link](teams/reg-mc-1st-raichu-staraptor-dual-mega.md) |
 | 2 | Mega Meowstic + Mega Charizard Y — Psychic Terrain Dual Mega (Frankfurt Top 4) | [YvarVGC](https://x.com/YvarVGC) | 5R8L6GD1TA | [link](teams/reg-mc-top4-meowstic-charizard-dual-mega.md) |
 | 3 | Mega Lucario Z — Tailwind Hyper Offense | [JamesWBaek](https://x.com/JamesWBaek) | ABCSR7Y2T1 | [link](teams/reg-mc-lucario-z-tailwind-toxic-spikes.md) |
+| 4 | Mega Greninja — Rain with Espathra [Reg MB] | [JamesWBaek](https://x.com/JamesWBaek) | FKJEJHEBJK | [link](teams/reg-mb-greninja-espathra-rain.md) |
+| 5 | Mega Golurk + Telepathy Medicham — Trick Room Bluff [Reg MB] | [JamesWBaek](https://x.com/JamesWBaek) | EVU51L4VF7 | [link](teams/reg-mb-golurk-medicham-trick-room-bluff.md) |
+| 6 | Mega Houndoom — Sun with Chlorophyll Venusaur [Reg MB] | [JamesWBaek](https://x.com/JamesWBaek) | N/A | [link](teams/reg-mb-houndoom-sun-venusaur-torkoal.md) |
+| 7 | Mega Camerupt + Mega Abomasnow — Hard Trick Room (Day 2 (Worlds)) [Reg MB] | [bdogplatinum](https://x.com/bdogplatinum) | TW7MB1736R | [link](teams/reg-mb-day2-worlds-camerupt-abomasnow-trick-room.md) |
+| 8 | Mega Slowbro — Simple Beam Stockpile Psych Up (Top 64 (Japan Nationals)) [Reg MA] | [natsumewato](https://x.com/natsumewato) | 3FMW1HM6BJ | [link](teams/reg-ma-top64-slowbro-stockpile-psych-up.md) |
+| 9 | Mega Golisopod — Rain with Nasty Plot Farigiraf | [JamesWBaek](https://x.com/JamesWBaek) | 8W419007HR | [link](teams/reg-mc-golisopod-rain-farigiraf.md) |
+| 10 | Mega Garchomp Z — Sand Hyper Offense | [JamesWBaek](https://x.com/JamesWBaek) | Wp4JS12K67 | [link](teams/reg-mc-garchomp-z-sand-hyper-offense.md) |
+| 11 | Mega Absol Z — Will-O-Wisp Support | [JamesWBaek](https://x.com/JamesWBaek) | 48NXDQUJMV | [link](teams/reg-mc-absol-z-will-o-wisp-support.md) |
+| 12 | Mega Baxcalibur — Snow Aurora Veil Setup | [JamesWBaek](https://x.com/JamesWBaek) | 4QPUJVPG1M | [link](teams/reg-mc-baxcalibur-snow-aurora-veil.md) |
+| 13 | Mega Salamence — Dragon Cheer Slash Crit | [JamesWBaek](https://x.com/JamesWBaek) | WB0SEFFSDN | [link](teams/reg-mc-salamence-dragon-cheer-slash.md) |
