@@ -1,5 +1,16 @@
 # Log
 
+## [2026-10-08] ingest | 8 new teams (2 CybertronVGC, 6 James Baek)
+
+Ingested every in-scope video whose pokepaste was not yet in the wiki (all had transcripts):
+
+- **CybertronVGC, Reg MC** — Joseph Ugarte's Baltimore Regionals winner, Mega Salamence + Mega Tyranitar sand (3Zt00dHwJWw; marcofiero's recreation, not Joe's exact spreads); Eric Rios's undefeated 17-0 Frankfurt winner, Mega Raichu Y + Mega Garchomp Z with Volcarona and Nasty Plot Gholdengo (R8zUm6AYVEs).
+- **James Baek, Reg MB** — Mega Altaria Dragon Dance + sand Excadrill (UMAofE4-Kmc), turtle Trick Room Mega Blastoise (1OXd9v48A6w), Mega Emboar sun room with Mold Breaker Helping Hand (Dh5TVKJ5Mrg).
+- **James Baek, Reg MC** — Squawkabilly + Mega Staraptor Contrary (Lk8hSUlB-2Y, Top 300 Global Challenge), Mega Mawile + Grapploct Trick Room (UIpl0QYhhHg, Frankfurt Day 2), Toxtricity + Swampert Tailwind (0SiHTYYYrEQ, 137th Global Challenge).
+- Added 9 species/forms to the type table, 6 moves to the move-type map (Apple Acid, Feather Dance, Ice Spinner, Overdrive, Power Trip, Storm Throw), and Baltimore / Frankfurt / Global Challenge tournament badges. Blastoise has no Nature in its paste, so it is recorded as Hardy.
+- Skipped J-FN6G59dI0's Blastoise/Orthworm paste (0d479f4c7b9e6a0b): already in the wiki as reg-ma-s1-blastoise-orthworm.
+- Stat points validated at 66 for all 48 Pokemon; Vileplume uses its Gen 3+ base stats (SpA 110, SpD 90).
+
 ## [2026-10-03] ingest | 10 James Baek teams (transcripts now available)
 
 Ingested the James Baek videos whose transcripts had become available since the last run (10 teams, all new pokepastes):

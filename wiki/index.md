@@ -277,6 +277,8 @@ Teams from multi-team roundup/analysis videos.
 | 6 | Anti-Meta Psych Up Metagross — Baltimore Top 16 | [ArKaneVGC](https://x.com/ArKaneVGC) | - | [link](teams/reg-mc-top16-metagross-psych-up.md) |
 | 7 | Mega Lucario Z — Terrain Pulse Offense | [shaikhvgc786](https://x.com/shaikhvgc786) | 87WMM6DC3S | [link](teams/reg-mc-lucario-z-terrain-pulse.md) |
 | 8 | Mega Lopunny + Mega Gardevoir — Baltimore Top 16 | [HitTheCritty](https://x.com/HitTheCritty) | 3BVTTCYP2B | [link](teams/reg-mc-top16-lopunny-gardevoir.md) |
+| 9 | Mega Salamence + Mega Tyranitar — Sand Dual Mega (Baltimore 1st) | [JoeUX9](https://www.youtube.com/@JoeUX9/) | 52CNN941Y3 | [link](teams/reg-mc-baltimore-1st-salamence-tyranitar-sand.md) |
+| 10 | Mega Raichu Y + Mega Garchomp Z — Fake Out Brothers (Frankfurt 1st, 17-0) | [Riopaser](https://www.youtube.com/@Riopaser/) | 9NNN3N8A4G | [link](teams/reg-mc-frankfurt-1st-raichu-y-garchomp-z.md) |
 
 ## Regulation MC — James Baek Videos
 
@@ -295,3 +297,9 @@ Teams from multi-team roundup/analysis videos.
 | 11 | Mega Absol Z — Will-O-Wisp Support | [JamesWBaek](https://x.com/JamesWBaek) | 48NXDQUJMV | [link](teams/reg-mc-absol-z-will-o-wisp-support.md) |
 | 12 | Mega Baxcalibur — Snow Aurora Veil Setup | [JamesWBaek](https://x.com/JamesWBaek) | 4QPUJVPG1M | [link](teams/reg-mc-baxcalibur-snow-aurora-veil.md) |
 | 13 | Mega Salamence — Dragon Cheer Slash Crit | [JamesWBaek](https://x.com/JamesWBaek) | WB0SEFFSDN | [link](teams/reg-mc-salamence-dragon-cheer-slash.md) |
+| 14 | Mega Altaria — Dragon Dance with Sand Excadrill [Reg MB] | [JamesWBaek](https://x.com/JamesWBaek) | 5KWJC8XT28 | [link](teams/reg-mb-altaria-dragon-dance-sand.md) |
+| 15 | Mega Blastoise — Turtle Trick Room (Champions Tier) [Reg MB] | [James Bones](https://www.reddit.com/r/VGC/comments/1vb7ge2/metagame_i_made_champion_tier_with_the_turtle/) | 5U5GD0KVNP | [link](teams/reg-mb-blastoise-turtle-trick-room.md) |
+| 16 | Mega Emboar — Sun Room with Mold Breaker Helping Hand [Reg MB] | [JamesWBaek](https://x.com/JamesWBaek) | FJW78QMWBQ | [link](teams/reg-mb-emboar-sun-room-mold-breaker.md) |
+| 17 | Mega Staraptor + Squawkabilly — Double Bird Feather Dance (Top 300 Global Challenge) | [laprass56131](https://x.com/laprass56131) | N/A | [link](teams/reg-mc-top300-staraptor-squawkabilly-feather-dance.md) |
+| 18 | Mega Mawile + Grapploct — Rain Trick Room (Day 2 Frankfurt) | [MiloNickVGC](https://x.com/MiloNickVGC) | H8VRBRFXEC | [link](teams/reg-mc-day2-mawile-kangaskhan-grapploct-rain-trick-room.md) |
+| 19 | Mega Salamence + Toxtricity — Tailwind Offense with Swampert (137th Global Challenge) | [kaoru389](https://x.com/kaoru389) | N/A | [link](teams/reg-mc-137th-toxtricity-swampert-salamence-tailwind.md) |
