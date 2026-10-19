@@ -1,5 +1,15 @@
 # Log
 
+## [2026-10-19] ingest | 7 new teams (2 CybertronVGC, 5 James Baek)
+
+Ingested every in-scope video whose pokepaste was not yet in the wiki (all Reg MC, all had transcripts):
+
+- **CybertronVGC**: London Faust's (gossamerguns) Louisville Top 16 Alcremie Decorate + Mega Garchomp Z sun room (FKv55-sq4os); hakushu_t's 65th Global Challenge Mega Absol Z + Mega Metagross Icy Wind hyper offence (UlN7dV7hSJg).
+- **James Baek**: Mega Alakazam + Unburden Slurpuff After You (fumd2sN-YpE, James's recreation of a ladder team with Garchomp in Kingambit's slot); Andrew Cavanah's 9-3 Louisville Mega Greninja + special Mega Swampert rain with Aromatic Mist Tsareena (539NuJKcwYQ); sasisu_memo's 55th Global Challenge Mega Raichu X + Espathra Baton Pass (Y9onP4qB174); Ruuto's Top 64 Global Challenge Kanto Ninetales + Mega Floette Tailwind (CE3mnF3enw0); Sahil's Top 10 ladder Gliscor + Charizard Y (NgGNl9E5olk).
+- Added 6 species/forms to the type table (Alcremie, Slurpuff, Alakazam, Alakazam-Mega, Basculegion-F, Gliscor), 4 moves to the move-type map (Aromatic Mist, Decorate, Night Slash, Steel Roller), and Louisville Regionals / Global Challenge / Ranked Ladder badges.
+- Skipped YAdg2tR-L4M (CybertronVGC Grapploct): its paste is already in the wiki from James Baek's UIpl0QYhhHg. CWp0b11vhyU (Mega Meowstic) has no pokepaste in its description.
+- Stat points validated at 66 for all 42 Pokemon. The Raichu X team's Whimsicott uses 0 Atk IVs (Atk 64). Mega Swampert's ability is recorded as Swift Swim (Showdown data); the paste lists Torrent.
+
 ## [2026-10-08] ingest | 8 new teams (2 CybertronVGC, 6 James Baek)
 
 Ingested every in-scope video whose pokepaste was not yet in the wiki (all had transcripts):

@@ -279,6 +279,8 @@ Teams from multi-team roundup/analysis videos.
 | 8 | Mega Lopunny + Mega Gardevoir — Baltimore Top 16 | [HitTheCritty](https://x.com/HitTheCritty) | 3BVTTCYP2B | [link](teams/reg-mc-top16-lopunny-gardevoir.md) |
 | 9 | Mega Salamence + Mega Tyranitar — Sand Dual Mega (Baltimore 1st) | [JoeUX9](https://www.youtube.com/@JoeUX9/) | 52CNN941Y3 | [link](teams/reg-mc-baltimore-1st-salamence-tyranitar-sand.md) |
 | 10 | Mega Raichu Y + Mega Garchomp Z — Fake Out Brothers (Frankfurt 1st, 17-0) | [Riopaser](https://www.youtube.com/@Riopaser/) | 9NNN3N8A4G | [link](teams/reg-mc-frankfurt-1st-raichu-y-garchomp-z.md) |
+| 11 | Alcremie + Mega Garchomp Z — Decorate Sun Room (Top 16 Louisville Regionals) | [gossamerguns](https://x.com/gossamerguns) | UVYDE4XLQB | [link](teams/reg-mc-top16-alcremie-garchomp-z-sun-room.md) |
+| 12 | Mega Absol Z + Mega Metagross — Icy Wind Hyper Offense (65th Global Challenge) | [hakushu_t](https://x.com/hakushu_t) | YK5FSPQVP5 | [link](teams/reg-mc-65th-absol-z-metagross-hyper-offense.md) |
 
 ## Regulation MC — James Baek Videos
 
@@ -303,3 +305,8 @@ Teams from multi-team roundup/analysis videos.
 | 17 | Mega Staraptor + Squawkabilly — Double Bird Feather Dance (Top 300 Global Challenge) | [laprass56131](https://x.com/laprass56131) | N/A | [link](teams/reg-mc-top300-staraptor-squawkabilly-feather-dance.md) |
 | 18 | Mega Mawile + Grapploct — Rain Trick Room (Day 2 Frankfurt) | [MiloNickVGC](https://x.com/MiloNickVGC) | H8VRBRFXEC | [link](teams/reg-mc-day2-mawile-kangaskhan-grapploct-rain-trick-room.md) |
 | 19 | Mega Salamence + Toxtricity — Tailwind Offense with Swampert (137th Global Challenge) | [kaoru389](https://x.com/kaoru389) | N/A | [link](teams/reg-mc-137th-toxtricity-swampert-salamence-tailwind.md) |
+| 20 | Mega Alakazam + Slurpuff — Psychic Terrain After You | [JamesWBaek](https://x.com/JamesWBaek) | 57H9JDP6E0 | [link](teams/reg-mc-alakazam-slurpuff-psychic-terrain.md) |
+| 21 | Mega Greninja + Special Mega Swampert — Rain Offense (9-3 Louisville Regionals) | Andrew Cavanah | N/A | [link](teams/reg-mc-louisville-greninja-swampert-rain.md) |
+| 22 | Mega Raichu X + Espathra — Electric Terrain Baton Pass (55th Global Challenge) | [sasisu_memo](https://x.com/sasisu_memo) | N/A | [link](teams/reg-mc-55th-raichu-x-espathra-baton-pass.md) |
+| 23 | Ninetales + Mega Floette — Sun Tailwind Hyper Offense (Top 64 Global Challenge) | [tbhla7130](https://x.com/tbhla7130) | 1T1M4UQVCF | [link](teams/reg-mc-top64-ninetales-floette-tailwind.md) |
+| 24 | Gliscor + Mega Charizard Y — Psychic Terrain Sun Tailwind (Top 10 Champions Ladder) | [shaikhvgc786](https://x.com/shaikhvgc786) | JM44SXF99Y | [link](teams/reg-mc-top10-ladder-gliscor-charizard-y-sun.md) |
