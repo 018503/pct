@@ -1,5 +1,11 @@
 # Log
 
+## [2026-10-27] ingest | 1 new team (James Baek)
+
+- **James Baek, Reg MC**: Tanner Mask's Top 32 Baltimore Regionals Mega Blastoise + Mega Delphox psyspam balance (P05BOO6ZQAk). It adds Psychic Surge Indeedee-F and Revival Blessing Pawmot to the Incineroar + Sinistcha core. Techs: Expanding Force on unmega'd Delphox, and Mega Launcher Terrain Pulse on Blastoise.
+- No new species or moves were needed. Added a Baltimore Regionals badge mapping for the video.
+- Only in-scope video not yet ingested; the CybertronVGC FKv55-sq4os was already in the wiki. Stat points validated at 66 for all 6 Pokemon. The paste lists Levitate (the mega ability) on Delphox; pre-mega it is grounded.
+
 ## [2026-10-19] ingest | 7 new teams (2 CybertronVGC, 5 James Baek)
 
 Ingested every in-scope video whose pokepaste was not yet in the wiki (all Reg MC, all had transcripts):

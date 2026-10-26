@@ -310,3 +310,4 @@ Teams from multi-team roundup/analysis videos.
 | 22 | Mega Raichu X + Espathra — Electric Terrain Baton Pass (55th Global Challenge) | [sasisu_memo](https://x.com/sasisu_memo) | N/A | [link](teams/reg-mc-55th-raichu-x-espathra-baton-pass.md) |
 | 23 | Ninetales + Mega Floette — Sun Tailwind Hyper Offense (Top 64 Global Challenge) | [tbhla7130](https://x.com/tbhla7130) | 1T1M4UQVCF | [link](teams/reg-mc-top64-ninetales-floette-tailwind.md) |
 | 24 | Gliscor + Mega Charizard Y — Psychic Terrain Sun Tailwind (Top 10 Champions Ladder) | [shaikhvgc786](https://x.com/shaikhvgc786) | JM44SXF99Y | [link](teams/reg-mc-top10-ladder-gliscor-charizard-y-sun.md) |
+| 25 | Mega Blastoise + Mega Delphox — Psyspam Balance (Top 32 Baltimore Regionals) | [Tanner Mask](https://www.youtube.com/watch?v=6OPBCFxptZU) | N/A | [link](teams/reg-mc-top32-baltimore-blastoise-delphox-psyspam.md) |
