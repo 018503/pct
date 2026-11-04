@@ -1,5 +1,15 @@
 # Log
 
+## [2026-11-04] ingest | 9 new teams (3 CybertronVGC, 6 James Baek)
+
+Ingested every in-scope video whose pokepaste was not yet in the wiki (all Reg MC, all had transcripts):
+
+- **CybertronVGC**: Kyle Livinghouse's Puebla Regionals winner, Mega Froslass + Mega Charizard Y with Whimsicott / Kingambit / Garchomp / White Herb Sneasler (Pv8iXEzfNus). Louis Fontvieille's Nice Regionals winner, Mega Raichu X + Mega Golisopod Electric Seed Sneasler rain (VpQqdykD2PU; this is Cybertron's recreation). Drew Bliss's 8-3 Top 32 Brisbane mixed Mega Starmie + Mega Gengar hyper offence (r2KAIm9og7I).
+- **James Baek**: ikdr_poke's 252nd ladder Kanto Zoroark + Mega Camerupt hard Trick Room (8Z5LPorpzjw). SwapDogVGC's least-used Unova monkeys + Mega Barbaracle Shell Smash (TX5XmsY9bpI). homura_kurenai_'s Mega Glalie Refrigerate Explosion + Last Respects (sILTLWjeSz0). Yuma Kinugawa's Mega Abomasnow + Beartic snow Trick Room (ueFafBGYNyo). morikamome39's Top 300 Mega Charizard X + Mega Glimmora sand (vMyE4UPo2yI). dodoriosiriru's Top 8 Japanese grassroots Mega Drampa + Slowking Cloud Nine psyspam (z-EA77UCV9g).
+- Added 10 species/forms to the type table (Simipour, Simisage, Simisear, Gourgeist-Large, Samurott, Glalie, Glalie-Mega, Zoroark, Sirfetch’d, Beartic) and 7 moves to the move-type map (Upper Hand, Surf, Aqua Tail, Temper Flare, Blaze Kick, Megahorn, Sludge Wave). Added Puebla / Nice / Brisbane Regionals, Japanese Grassroots and Ranked Ladder badges.
+- Skipped 9IId9doBBCw: its paste (c17953781c23d7fb) is already in the wiki from FKv55-sq4os. f9sRfTb4UgQ (Mega Hawlucha) has no pokepaste in its description.
+- Stat points validated at 66 for all 54 Pokemon. The paste lists Moody on Glalie (James said Inner Focus) and Heat Wave on Armarouge (James said Armor Cannon). First use of the Hasty, Naive and Relaxed natures in calcs.
+
 ## [2026-10-27] ingest | 1 new team (James Baek)
 
 - **James Baek, Reg MC**: Tanner Mask's Top 32 Baltimore Regionals Mega Blastoise + Mega Delphox psyspam balance (P05BOO6ZQAk). It adds Psychic Surge Indeedee-F and Revival Blessing Pawmot to the Incineroar + Sinistcha core. Techs: Expanding Force on unmega'd Delphox, and Mega Launcher Terrain Pulse on Blastoise.

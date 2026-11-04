@@ -281,6 +281,9 @@ Teams from multi-team roundup/analysis videos.
 | 10 | Mega Raichu Y + Mega Garchomp Z — Fake Out Brothers (Frankfurt 1st, 17-0) | [Riopaser](https://www.youtube.com/@Riopaser/) | 9NNN3N8A4G | [link](teams/reg-mc-frankfurt-1st-raichu-y-garchomp-z.md) |
 | 11 | Alcremie + Mega Garchomp Z — Decorate Sun Room (Top 16 Louisville Regionals) | [gossamerguns](https://x.com/gossamerguns) | UVYDE4XLQB | [link](teams/reg-mc-top16-alcremie-garchomp-z-sun-room.md) |
 | 12 | Mega Absol Z + Mega Metagross — Icy Wind Hyper Offense (65th Global Challenge) | [hakushu_t](https://x.com/hakushu_t) | YK5FSPQVP5 | [link](teams/reg-mc-65th-absol-z-metagross-hyper-offense.md) |
+| 13 | Mega Froslass + Mega Charizard Y — Whimsicott Goodstuffs (Puebla 1st) | [AnimusVGC](https://x.com/AnimusVGC) | 0QK4AB237U | [link](teams/reg-mc-puebla-1st-froslass-charizard-y.md) |
+| 14 | Mega Raichu X + Mega Golisopod — Electric Seed Rain (Nice 1st) | [SuperPawmi](https://x.com/SuperPawmi) | C3YQFANY6B | [link](teams/reg-mc-nice-1st-raichu-x-golisopod-rain.md) |
+| 15 | Mega Starmie + Mega Gengar — Mixed Hyper Offense (Top 32 Brisbane) | [clearmomdotcom](https://x.com/clearmomdotcom) | EX9XBFDRDH | [link](teams/reg-mc-top32-brisbane-starmie-gengar-hyper-offense.md) |
 
 ## Regulation MC — James Baek Videos
 
@@ -311,3 +314,9 @@ Teams from multi-team roundup/analysis videos.
 | 23 | Ninetales + Mega Floette — Sun Tailwind Hyper Offense (Top 64 Global Challenge) | [tbhla7130](https://x.com/tbhla7130) | 1T1M4UQVCF | [link](teams/reg-mc-top64-ninetales-floette-tailwind.md) |
 | 24 | Gliscor + Mega Charizard Y — Psychic Terrain Sun Tailwind (Top 10 Champions Ladder) | [shaikhvgc786](https://x.com/shaikhvgc786) | JM44SXF99Y | [link](teams/reg-mc-top10-ladder-gliscor-charizard-y-sun.md) |
 | 25 | Mega Blastoise + Mega Delphox — Psyspam Balance (Top 32 Baltimore Regionals) | [Tanner Mask](https://www.youtube.com/watch?v=6OPBCFxptZU) | N/A | [link](teams/reg-mc-top32-baltimore-blastoise-delphox-psyspam.md) |
+| 26 | Zoroark + Mega Camerupt — Illusion Hard Trick Room | [ikdr_poke](https://x.com/ikdr_poke) | NJMPAYLQLR | [link](teams/reg-mc-ladder-zoroark-camerupt-trick-room.md) |
+| 27 | Elemental Monkeys + Mega Barbaracle — Least-Used Shell Smash | [SwapDogVGC](https://x.com/SwapDogVGC) | FJJYQ474U2 | [link](teams/reg-mc-ladder-simians-barbaracle-shell-smash.md) |
+| 28 | Mega Glalie — Refrigerate Explosion + Last Respects | [homura_kurenai_](https://x.com/homura_kurenai_) | XC1QXB161T | [link](teams/reg-mc-glalie-explosion-last-respects.md) |
+| 29 | Mega Abomasnow + Beartic — Snow Trick Room | [kinurincipall](https://x.com/kinurincipall) | N/A | [link](teams/reg-mc-ladder-abomasnow-beartic-snow-room.md) |
+| 30 | Mega Charizard X + Mega Glimmora — Sand Dual Weather Bluff | [morikamome39](https://x.com/morikamome39) | P8R8JUAEMB | [link](teams/reg-mc-top300-charizard-x-glimmora-sand.md) |
+| 31 | Mega Drampa + Slowking — Cloud Nine Psyspam Trick Room | [dodoriosiriru](https://x.com/dodoriosiriru) | 8V1X56PB06 | [link](teams/reg-mc-top8-drampa-slowking-psyspam-trick-room.md) |
