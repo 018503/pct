@@ -50,7 +50,7 @@ Adamant Golisopod (Emergency Exit pre-mega, Tough Claws mega) with Leech Life, I
 | HP | 60 | 31 | 166 |
 | Atk | 50 | 0 | 63 |
 | Def | 100 | 2 | 122 |
-| SpA | 85 | 5 | 121 |
+| SpA | 95 | 5 | 132 |
 | SpD | 70 | 26 | 116 |
 | Spe | 65 | 2 | 87 |
 

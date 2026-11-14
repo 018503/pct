@@ -72,7 +72,7 @@ Modest Leftovers Archaludon with Flash Cannon, Dragon Pulse, Electro Shot, Prote
 | HP | 60 | 32 | 167 |
 | Atk | 50 | 0 | 63 |
 | Def | 100 | 0 | 120 |
-| SpA | 85 | 32 | 150 |
+| SpA | 95 | 32 | 161 |
 | SpD | 70 | 2 | 92 |
 | Spe | 65 | 0 | 85 |
 

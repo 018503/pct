@@ -91,7 +91,7 @@ Calm with Snarl over Flash Cannon is the current trend. Snarl hits the Psychic t
 | HP | 60 | 32 | 167 |
 | Atk | 50 | 0 | 63 |
 | Def | 100 | 10 | 143 |
-| SpA | 85 | 17 | 122 |
+| SpA | 95 | 17 | 132 |
 | SpD | 70 | 7 | 97 |
 | Spe | 65 | 0 | 85 |
 

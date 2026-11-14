@@ -52,11 +52,11 @@ Calm 32 HP / 10 Def / 15 SpD / 8 Spe Occa Berry, no Protect. Survives the common
 | SpD | 90 | 0 | 110 |
 | Spe | 110 | 28 | 173 |
 
-**Moves:** Brave Bird · Close Combat · Tailwind · Protect
+**Moves:** Brave Bird · Close Combat · Roost · Protect
 
 **Role:** Contrary Close Combat sweeper
 
-Jolly 15 HP / 23 Atk / 28 Spe. Outspeeds Pawmot and Adamant / Modest base 120s (Sneasler, Froslass). More Atk than usual Staraptors so +2 hits secure KOs on bulky targets. Brave Bird / Close Combat / Tailwind / Protect.
+Jolly 15 HP / 23 Atk / 28 Spe. Outspeeds Pawmot and Adamant / Modest base 120s (Sneasler, Froslass). More Atk than usual Staraptors so +2 hits secure KOs on bulky targets. Brave Bird / Close Combat / Roost / Protect. It runs Roost rather than Tailwind (the pokepaste lists Tailwind), so Whimsicott is the team's only Tailwind setter.
 
 ### Indeedee-F @ Rocky Helmet
 

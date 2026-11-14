@@ -131,7 +131,7 @@ This is max Atk / max Spe Adamant, because the Adamant boost secures Close Comba
 | HP | 60 | 0 | 135 |
 | Atk | 50 | 0 | 63 |
 | Def | 100 | 1 | 121 |
-| SpA | 85 | 32 | 150 |
+| SpA | 95 | 32 | 161 |
 | SpD | 70 | 1 | 91 |
 | Spe | 65 | 32 | 117 |
 

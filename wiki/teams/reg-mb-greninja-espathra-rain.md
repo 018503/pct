@@ -30,7 +30,7 @@ The team usually double protects on the first turn in Greninja's base form and w
 | HP | 60 | 31 | 166 |
 | Atk | 50 | 0 | 63 |
 | Def | 100 | 0 | 120 |
-| SpA | 85 | 5 | 121 |
+| SpA | 95 | 5 | 132 |
 | SpD | 70 | 25 | 115 |
 | Spe | 65 | 5 | 90 |
 

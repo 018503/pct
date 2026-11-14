@@ -70,7 +70,7 @@ Classic screen support with Light Clay extending both screens to 8 turns. Spirit
 | HP | 60 | 31 | 166 |
 | Atk | 50 | 0 | 63 |
 | Def | 100 | 1 | 121 |
-| SpA | 85 | 5 | 121 |
+| SpA | 95 | 5 | 132 |
 | SpD | 70 | 18 | 108 |
 | Spe | 65 | 11 | 96 |
 
