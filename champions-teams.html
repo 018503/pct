@@ -49,7 +49,6 @@ header p{font-size:.875rem;color:var(--dim);margin-top:4px;letter-spacing:.04em;
 .team-list{display:flex;flex-direction:column;gap:8px;padding-top:8px}
 .team-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;overflow:hidden;transition:border-color .15s}
 .team-card:hover{border-color:color-mix(in srgb,var(--border) 50%,var(--accent))}
-.team-card.dimmed{opacity:.35;pointer-events:none}
 .team-header{display:flex;align-items:center;gap:12px;padding:14px 16px;cursor:pointer;user-select:none}
 .tourney-badge{font-size:.68rem;padding:1px 7px;border-radius:8px;background:var(--accent-soft);color:var(--accent);font-weight:600;letter-spacing:.02em}
 .top-filters{display:flex;gap:6px;padding:0 0 12px;flex-wrap:wrap;align-items:center}
@@ -447,8 +446,7 @@ function renderTeams() {
   renderCompare();
 
   el.innerHTML = T.map((team, ti) => {
-    if(!visible[ti])return '';
-    const dimmed = filtered && !filtered.includes(ti);
+    if(!visible[ti] || (filtered && !filtered.includes(ti)))return '';
     const highlightMons = activeFilter ? pokemonIndex[activeFilter]?.teams.includes(ti) : false;
     const reg = (team.reg||'MB').replace(/ S\d$/,'');
     let tn = '';
@@ -485,7 +483,7 @@ function renderTeams() {
       else if (/Top 100|547th/.test(team.rk)) tn = 'Ranked Ladder';
     }
     const rkClean = team.rk ? team.rk.replace(/ \(.*\)/,'') : '';
-    return `<div class="team-card${dimmed?' dimmed':''}" data-idx="${ti}">
+    return `<div class="team-card" data-idx="${ti}">
       <div class="team-header" onclick="toggleTeam(${ti})">
         <div class="team-info">
           <div class="team-name">${team.n}</div>
