@@ -284,6 +284,29 @@ Teams from multi-team roundup/analysis videos.
 | 13 | Mega Froslass + Mega Charizard Y — Whimsicott Goodstuffs (Puebla 1st) | [AnimusVGC](https://x.com/AnimusVGC) | 0QK4AB237U | [link](teams/reg-mc-puebla-1st-froslass-charizard-y.md) |
 | 14 | Mega Raichu X + Mega Golisopod — Electric Seed Rain (Nice 1st) | [SuperPawmi](https://x.com/SuperPawmi) | C3YQFANY6B | [link](teams/reg-mc-nice-1st-raichu-x-golisopod-rain.md) |
 | 15 | Mega Starmie + Mega Gengar — Mixed Hyper Offense (Top 32 Brisbane) | [clearmomdotcom](https://x.com/clearmomdotcom) | EX9XBFDRDH | [link](teams/reg-mc-top32-brisbane-starmie-gengar-hyper-offense.md) |
+| 16 | Mega Staraptor + Mega Tyranitar — Sand Balance (Gdansk 1st) | [javivarela56](https://x.com/javivarela56) | 1V4XVBR3Y6 | [link](teams/reg-mc-gdansk-1st-staraptor-tyranitar-sand.md) |
+| 17 | Mega Heracross — Skill Link Tailwind / Trick Room Offense (Top 100 Champion Tier) | [Jhin0213](https://x.com/Jhin0213) | P9S5X48KEN | [link](teams/reg-mc-top100-heracross-tailwind-trick-room.md) |
+| 18 | Mega Alakazam — Speed Swap + Future Sight Trick Room (Champion Tier) | [r/PokemonChampions](https://www.reddit.com/r/PokemonChampions/comments/1xcvbdn/future_sight_mega_alakazam_champion_tier_team/) | H829XTLP99 | [link](teams/reg-mc-champion-alakazam-speed-swap-trick-room.md) |
+
+## Regulation MC — CybertronVGC Roundup Teams
+
+Source: [CybertronVGC — These are the best teams in Pokemon Champions (Reg MC)](https://www.youtube.com/watch?v=eLxRtZCGHbM) (2026-11-11). 17 teams; 13 new here (the Staraptor sand, Salamence sand, Froslass WhimsiZard and Raichu Y / Garchomp Z teams were already in the wiki).
+
+| # | Team | Creator | Rental Code | Page |
+|---|---|---|---|---|
+| 1 | Mega Camerupt + Mega Raichu Y — Trick Room / Zap Cannon Dual Mode (Taiwan Premier Ball 1st) | [Johnnychiou36](https://x.com/Johnnychiou36) | LW1GN6UJPN | [link](teams/reg-mc-taiwan-1st-camerupt-raichu-y-trick-room.md) |
+| 2 | Mega Floette + Mega Salamence — Calm Mind Triple Fake Out (Online Grassroots 1st) | [FedeCampoVGC](https://x.com/FedeCampoVGC) | BSS4HQPN8B | [link](teams/reg-mc-grassroots-1st-floette-salamence-calm-mind.md) |
+| 3 | Mega Floette + Mega Delphox — Triple Setup (Justin Tang) | [unironicpanda](https://x.com/unironicpanda) | XFSC8BWWNP | [link](teams/reg-mc-floette-delphox-kingambit-triple-setup.md) |
+| 4 | Mega Floette + Physical Mega Garchomp — Scale Shot Triple Fake Out (Gdansk 2nd) | [magicauravgc](https://x.com/magicauravgc) | C8BN5AKEH8 | [link](teams/reg-mc-gdansk-2nd-floette-garchomp-scale-shot.md) |
+| 5 | Mega Staraptor + Mega Glimmora — Hippowdon Houndstone Sand (Victory Road Online 2nd) | [RKlem231645](https://x.com/RKlem231645) | DTB8105M99 | [link](teams/reg-mc-vr-2nd-staraptor-glimmora-hippowdon-sand.md) |
+| 6 | Mega Gengar + Hippowdon — Shadow Tag Perish Trap (Top 16 Gdansk) | [marcofiero](https://www.patreon.com/cw/marcofiero) | V16YGSKA5C | [link](teams/reg-mc-gdansk-top16-gengar-hippowdon-perish-trap.md) |
+| 7 | Mega Charizard Y + Mega Garchomp Z — Fast Zard Fire/Water/Grass (Rank 1 Ladder) | [UB_SLOW](https://x.com/UB_SLOW) | 8DCB5LMJ1U | [link](teams/reg-mc-rank1-charizard-y-garchomp-z-ub-slow.md) |
+| 8 | Whimsicott + Mega Charizard Y — Sneasler Tailwind (Top 16 Louisville) | [MimikyuFool](https://x.com/MimikyuFool) | 1TK6W03RVK | [link](teams/reg-mc-louisville-top16-whimsicott-charizard-sneasler.md) |
+| 9 | Whimsicott + Mega Charizard Y + Mega Salamence — Tailwind (Michael Kelsch) | [MichaelderBeste](https://x.com/MichaelderBeste) | JQDVTKF10X | [link](teams/reg-mc-whimsicott-charizard-salamence-tailwind.md) |
+| 10 | Mega Charizard Y + Venusaur — Toxapex Sun (Paul Chua) | [Paul_Chua_](https://x.com/Paul_Chua_) | J0JKDSS5VV | [link](teams/reg-mc-charizard-y-venusaur-toxapex-sun.md) |
+| 11 | Dual Weather + Mega Garchomp Z — Grimmsnarl Screens (Australian Regional 1st) | [mevlad552](https://x.com/mevlad552) | TB0C85121Q | [link](teams/reg-mc-dual-weather-garchomp-z-grimmsnarl-screens.md) |
+| 12 | Mega Raichu X + Mega Golisopod — Electric Seed Rain (Top 64 Gdansk) | [vgcdani](https://x.com/vgcdani/) | RJWTJGEJH1 | [link](teams/reg-mc-gdansk-top64-raichu-x-golisopod-rain.md) |
+| 13 | Mega Raichu Y + Mega Staraptor — Calm Mind Primarina Setup (Top 32 Nice) | [schianchi_luca](https://x.com/schianchi_luca/) | 5C9LNUSWUY | [link](teams/reg-mc-nice-top32-raichu-y-staraptor-primarina.md) |
 
 ## Regulation MC — James Baek Videos
 
@@ -320,3 +343,8 @@ Teams from multi-team roundup/analysis videos.
 | 29 | Mega Abomasnow + Beartic — Snow Trick Room | [kinurincipall](https://x.com/kinurincipall) | N/A | [link](teams/reg-mc-ladder-abomasnow-beartic-snow-room.md) |
 | 30 | Mega Charizard X + Mega Glimmora — Sand Dual Weather Bluff | [morikamome39](https://x.com/morikamome39) | P8R8JUAEMB | [link](teams/reg-mc-top300-charizard-x-glimmora-sand.md) |
 | 31 | Mega Drampa + Slowking — Cloud Nine Psyspam Trick Room | [dodoriosiriru](https://x.com/dodoriosiriru) | 8V1X56PB06 | [link](teams/reg-mc-top8-drampa-slowking-psyspam-trick-room.md) |
+| 32 | Mega Gengar + Hippowdon — Shadow Tag Yawn Sand (Top 16 Nice Regionals) | [IdkVgc19](https://x.com/IdkVgc19/status/2111886870833705119) | 5EQS0H68M0 | [link](teams/reg-mc-top16-nice-gengar-hippowdon-sand.md) |
+| 33 | Mega Ampharos + Mega Camerupt — Dual Mega Hard Trick Room (Global Challenge II) | [denryu_ampharos](https://x.com/denryu_ampharos/status/2117218421951889881) | N/A | [link](teams/reg-mc-gc2-ampharos-camerupt-trick-room.md) |
+| 34 | Mega Heracross — Tailwind Hyper Offense (57th Ranked Ladder) | [Jhin0213](https://x.com/Jhin0213/status/2117917985046397392) | P9S5X48KEN | [link](teams/reg-mc-57th-ladder-heracross-hyper-offense.md) |
+| 35 | Psych Up Empoleon + Mega Staraptor — Charm / Nasty Plot Setup | [JamesWBaek](https://x.com/JamesWBaek) | HBEYWXX4PB | [link](teams/reg-mc-empoleon-psych-up-staraptor-delphox.md) |
+| 36 | Mega Dragalge + Araquanid — Soak Toxic Stall | [JamesWBaek](https://x.com/JamesWBaek) | BD2EMJASSF | [link](teams/reg-mc-dragalge-araquanid-soak-toxic-stall.md) |

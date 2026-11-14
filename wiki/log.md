@@ -1,5 +1,16 @@
 # Log
 
+## [2026-11-14] ingest | 21 new teams (16 CybertronVGC, 5 James Baek)
+
+Ingested every in-scope video whose pokepaste was not yet in the wiki (all Reg MC, all had transcripts):
+
+- **CybertronVGC singles**: Javier Varela's Gdansk Regionals winner, Mega Staraptor + Mega Tyranitar sand with Dragon Dance Tyranitar and Strength Sap Sinistcha (demE5A7VtiQ). Jhin0213's top 100 Champion tier Skill Link Mega Heracross (1LFQma82Dhs). A Champion tier Speed Swap / Future Sight Mega Alakazam hard Trick Room team from Reddit (QDk-14pzmvQ).
+- **CybertronVGC roundup** "These are the best teams in Pokemon Champions (Reg MC)" (eLxRtZCGHbM), 13 of 17 teams: Taiwan Premier Ball winner Mega Camerupt + Raichu Y; Spy Anya / FedeCampo Floette + Salamence; Justin Tang's Floette + Delphox triple setup; Gdansk 2nd Floette + physical Scale Shot Mega Garchomp; Victory Road 2nd Staraptor + Glimmora Houndstone sand; Marco Fiero's Top 16 Gdansk Gengar + Hippowdon perish; UB_SLOW's Rank 1 Charizard Y + Garchomp Z; three WhimsiZard variants (Carson St. Denis Sneasler, Michael Kelsch Salamence; the Froslass one was already in); Paul Chua's Charizard + Venusaur Toxapex; Kieran's Australian-winning dual weather + Garchomp Z; DaniVGC's Gdansk Top 64 Raichu X + Golisopod rain; schianchi_luca's Nice Top 32 Raichu Y + Staraptor.
+- **James Baek**: IdkVgc19's Top 16 Nice Mega Gengar + Hippowdon Shadow Tag Yawn sand (uU5fEb1DY_Y); denryu_ampharos's Global Challenge II Mega Ampharos + Mega Camerupt hard Trick Room (0p4bYKmn4bE); Jhin0213's Mega Heracross, 57th on the ladder (cBTk9SiRRA8); a Psych Up Empoleon + Mega Staraptor rebuild (4VHcikBuxcI); James's own Mega Dragalge + Araquanid Soak Toxic stall (AyaE8kkx5wI).
+- **Skipped**: the roundup's Staraptor sand paste (f3296782162e51c4) has the same six sets in a different order as the dedicated Gdansk video paste (c9bab45f6fec8403). Also skipped the roundup's Salamence sand (d8dd7d70dff01410), Froslass WhimsiZard (ff52423031511fd7) and Raichu Y / Garchomp Z (0e35fd9cd52d7552), which were already in the wiki. The two Heracross pastes share rental P9S5X48KEN but differ slightly (Glimmora Modest vs Timid, Detect vs Protect), so both are kept, one per video.
+- Added 4 species/forms to the type table (Heracross, Heracross-Mega, Houndstone, Araquanid) plus new move types, and tournament badges for the new videos (roundup badges come from each team's rank label).
+- Stat points validated at 66 for all 126 Pokemon. Base stats from species.js. New Pelipper entries use SpA 95 (Gen 7+); older Pelipper entries in the data use 85. Transcript mishearings were corrected silently ("Stakataka" / "Mega Steelix" = Staraptor, "Mega Dragapult" = Dragalge, "Ferrothorn" = Farigiraf, "Palafin" = Pelipper).
+
 ## [2026-11-04] ingest | 9 new teams (3 CybertronVGC, 6 James Baek)
 
 Ingested every in-scope video whose pokepaste was not yet in the wiki (all Reg MC, all had transcripts):
