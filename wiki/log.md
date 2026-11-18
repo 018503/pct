@@ -1,5 +1,10 @@
 # Log
 
+## [2026-11-18] update | Taiwan PBL Camerupt page enriched from dedicated video
+
+- Rewrote the strategy for [Mega Camerupt + Mega Raichu Y](teams/reg-mc-taiwan-1st-camerupt-raichu-y-trick-room.md) using CybertronVGC's "Mega Camerupt is a VGC CHAMPION!" (9o-ieqeipVk). Added the lead modes, when to pick Camerupt vs Raichu (closed vs open team sheet), weaknesses, and per-Pokemon piloting notes. Cybertron took the team to Champion tier on ladder.
+- Correction: the Top 8 Nice Regionals result was Ricardo Stellini's original version of the team, not this team. Fixed in the wiki page and the JSON summary. The team's `vid` stays on the roundup it was ingested from; the dedicated video is linked on the page.
+
 ## [2026-11-18] ingest | 1 new team (James Baek)
 
 - **James Baek, Reg MC**: poke_sasso's Top 300 Global Challenge hard Trick Room with Refrigerate Aurorus and Inner Focus Mudsdale (9oMZSwt4qBI). Focus Sash Gengar sets Trick Room and bluffs Mega Gengar / Perish Song. Mega Charizard Y is the only mega. Incineroar runs Blaze, not Intimidate, so Kingambit's Defiant doesn't trigger. Miracle Seed Rillaboom handles terrain and Water types.
