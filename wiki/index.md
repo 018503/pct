@@ -348,3 +348,4 @@ Source: [CybertronVGC — These are the best teams in Pokemon Champions (Reg MC)
 | 34 | Mega Heracross — Tailwind Hyper Offense (57th Ranked Ladder) | [Jhin0213](https://x.com/Jhin0213/status/2117917985046397392) | P9S5X48KEN | [link](teams/reg-mc-57th-ladder-heracross-hyper-offense.md) |
 | 35 | Psych Up Empoleon + Mega Staraptor — Charm / Nasty Plot Setup | [JamesWBaek](https://x.com/JamesWBaek) | HBEYWXX4PB | [link](teams/reg-mc-empoleon-psych-up-staraptor-delphox.md) |
 | 36 | Mega Dragalge + Araquanid — Soak Toxic Stall | [JamesWBaek](https://x.com/JamesWBaek) | BD2EMJASSF | [link](teams/reg-mc-dragalge-araquanid-soak-toxic-stall.md) |
+| 37 | Aurorus + Mudsdale — Sash Gengar Hard Trick Room (Top 300 Global Challenge) | [poke_sasso](https://x.com/poke_sasso/status/2117249131823730862) | N/A | [link](teams/reg-mc-gc-top300-aurorus-mudsdale-trick-room.md) |

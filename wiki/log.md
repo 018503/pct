@@ -1,5 +1,12 @@
 # Log
 
+## [2026-11-18] ingest | 1 new team (James Baek)
+
+- **James Baek, Reg MC**: poke_sasso's Top 300 Global Challenge hard Trick Room with Refrigerate Aurorus and Inner Focus Mudsdale (9oMZSwt4qBI). Focus Sash Gengar sets Trick Room and bluffs Mega Gengar / Perish Song. Mega Charizard Y is the only mega. Incineroar runs Blaze, not Intimidate, so Kingambit's Defiant doesn't trigger. Miracle Seed Rillaboom handles terrain and Water types.
+- **Skipped** the CybertronVGC "Mega Camerupt is a VGC CHAMPION!" video (9o-ieqeipVk). Its paste (7300801d5d05770f, via t.co) and rental LW1GN6UJPN match the Taiwan Premier Ball winner, already in the wiki from the eLxRtZCGHbM roundup.
+- No new species or moves were needed. Added the video to the Global Challenge badge mapping.
+- Stat points validated: 66 for five Pokemon, 64 for Incineroar (the paste lists 32 HP / 32 Atk only). The paste has Modest Charizard. James said Quiet in the video; the paste is used.
+
 ## [2026-11-14] ingest | 21 new teams (16 CybertronVGC, 5 James Baek)
 
 Ingested every in-scope video whose pokepaste was not yet in the wiki (all Reg MC, all had transcripts):
